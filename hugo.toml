@@ -1,0 +1,37 @@
+baseURL = "https://b101108063-ops.github.io/oku14/"
+languageCode = "zh-tw"
+title = "OKU 14 骨科筆記"
+theme = "PaperMod"
+
+# Files starting with "_" are working/partial files, not pages.
+ignoreFiles = ["content/_[^/]*$"]
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+env = "production"
+defaultTheme = "system"
+ShowReadingTime = true
+ShowToc = true
+TocOpen = true
+ShowBreadCrumbs = true
+ShowWordCount = true
+ShowProgressBar = true
+summaryLength = 30
+description = "Orthopaedic Knowledge Update 14 繁體中文結構化筆記"
+
+  [params.assets]
+  favicon = "favicon.png"
+  favicon16x16 = "favicon.png"
+  favicon32x32 = "favicon.png"
+  apple_touch_icon = "favicon.png"
+  safari_pinned_tab = "favicon.svg"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
