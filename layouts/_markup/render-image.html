@@ -1,0 +1,46 @@
+{{- /*
+Site-level image render hook (overrides PaperMod's).
+
+The site is deployed under a sub-path (/oku14/), so a root-relative image
+destination like "/images/oku14/x.jpg" would resolve to the domain root and
+404. relURL() prefixes the configured baseURL, producing
+"/oku14/images/oku14/x.jpg".
+
+Page resources and absolute URLs are handled the same way PaperMod does.
+*/ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+    {{- $src = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $src = printf "%s?%s" $src . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $src = printf "%s#%s" $src . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- /* Not a page resource. Make the path relative to the site baseURL.
+           relURL() leaves root-relative paths untouched, so the leading "/"
+           is stripped first: "/images/x.jpg" -> relURL("images/x.jpg")
+           -> "/oku14/images/x.jpg". */ -}}
+    {{- $rel := strings.TrimPrefix "/" $u.Path -}}
+    {{- if $rel -}}
+      {{- $src = relURL $rel -}}
+      {{- with $u.RawQuery -}}
+        {{- $src = printf "%s?%s" $src . -}}
+      {{- end -}}
+      {{- with $u.Fragment -}}
+        {{- $src = printf "%s#%s" $src . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $attributes := merge .Attributes (dict "alt" .Text "src" $src "title" (.Title | transform.HTMLEscape) "loading" "lazy") -}}
+<img
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end -}}>
