@@ -3,8 +3,10 @@ languageCode = "zh-tw"
 title = "OKU 14 骨科筆記"
 theme = "PaperMod"
 
-# Files starting with "_" are working/partial files, not pages.
-ignoreFiles = ["content/_[^/]*$"]
+# Content pages live in content/*.md; Hugo ignores "_"-prefixed files by
+# default, so no explicit ignore rule is needed here. An ignoreFiles regex for
+# "_" files used to live here and it also matched _index.md, which emptied the
+# home page.
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
