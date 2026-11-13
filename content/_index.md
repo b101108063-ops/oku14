@@ -8,6 +8,10 @@ description: "Orthopaedic Knowledge Update 14 繁體中文結構化筆記"
 **Orthopaedic Knowledge Update 14 (OKU 14)** 繁體中文結構化筆記，共 75 章。
 每章涵蓋臨床評估、分型決策、治療指引、陷阱爭議與文獻重點，數值與建議均追溯原書。
 
+## OKU 15（2027）章節架構對照
+
+本網站現有 75 章為 **OKU 14（2024）筆記**；依提供的新版目錄資料，OKU 15 為 **83 章**。新版章節結構與增減請見 [OKU 14 → OKU 15 章節對照](oku14-oku15-comparison/)。**OKU 15 正文尚未匯入**，以下章節仍為 OKU 14 內容。
+
 ## 章節導覽
 
 | 章 | 主題 |
