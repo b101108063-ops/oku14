@@ -52,7 +52,7 @@ weight: 0
 |---|---|---|---|
 | [**Ch.1**]({{< relref "/oku15/chapter_01.md" >}}) *Orthopaedic Research* | [CH1]({{< relref "/chapter_01.md" >}}) 骨科研究方法與實證層級 | 相同 | 8 → 10（+2，+25%） |
 | [**Ch.2**]({{< relref "/oku15/chapter_02.md" >}}) *Biostatistics* | [CH2]({{< relref "/chapter_02.md" >}}) 生物統計學 | 相同 | 12 → 6（-6，-50%） |
-| **Ch.3** *Orthopaedic Patient Safety: Core Competencies and Communication Skills* | [CH3]({{< relref "/chapter_03.md" >}}) 骨科病人安全：核心能力與溝通技巧 | 相同 | 10 → 16（+6，+60%） ⬆ |
+| [**Ch.3**]({{< relref "/oku15/chapter_03.md" >}}) *Orthopaedic Patient Safety: Core Competencies and Communication Skills* | [CH3]({{< relref "/chapter_03.md" >}}) 骨科病人安全：核心能力與溝通技巧 | 相同 | 10 → 16（+6，+60%） ⬆ |
 | **Ch.4** *Regulation of Orthopaedic Products* | [CH4]({{< relref "/chapter_04.md" >}}) 骨科產品的法規管制 | 相同 | 12 → 8（-4，-33%） |
 | **Ch.5** *Healthcare Policy* | [CH5]({{< relref "/chapter_05.md" >}}) 醫療政策<br><small>*Health Policy*</small> | 相同 | 18 → 12（-6，-33%） |
 | **Ch.6** *Coagulation and Blood Management* | [CH7]({{< relref "/chapter_07.md" >}}) 凝血功能與血液管理 | 相同 | 12 → 12（+0，+0%） |
