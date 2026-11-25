@@ -1,6 +1,6 @@
 ---
 title: "OKU 15 Ch.46: End-Stage Hip Degeneration and Hip Reconstruction（OKU 14 CH42 更新）"
-date: 2026-11-26
+date: 2026-11-25
 draft: false
 tags: ["OKU15", "Hip", "THA", "Osteoarthritis", "Bearing Surface", "PJI", "Instability", "Hip-Spine", "Vancouver", "版本差異"]
 categories: ["OKU 15 更新"]

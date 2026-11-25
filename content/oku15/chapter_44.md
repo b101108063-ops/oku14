@@ -1,6 +1,6 @@
 ---
 title: "OKU 15 Ch.44: Hip Preservation（OKU 14 CH40 改名／範圍調整）"
-date: 2026-11-26
+date: 2026-11-25
 draft: false
 tags: ["OKU15", "Hip", "FAI", "Dysplasia", "Osteonecrosis", "Hip Arthroscopy", "PAO", "版本差異"]
 categories: ["OKU 15 更新"]
