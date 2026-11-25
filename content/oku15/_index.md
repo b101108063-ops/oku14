@@ -7,7 +7,7 @@ draft: false
 
 每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
 
-**進度：2 / 83 章**
+**進度：5 / 83 章**
 
 | OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
 |---|---|---|---|
@@ -20,9 +20,9 @@ draft: false
 | **Ch.7** Musculoskeletal Biomechanics and Biomaterials | [CH8]({{< relref "/chapter_08.md" >}}) | 相同 | ⏳ |
 | **Ch.8** Musculoskeletal Imaging Principles | [CH9]({{< relref "/chapter_09.md" >}}) | 相同 | ⏳ |
 | [**Ch.9**]({{< relref "/oku15/chapter_09.md" >}}) Perioperative Patient Optimization | [CH6]({{< relref "/chapter_06.md" >}})、[CH10]({{< relref "/chapter_10.md" >}}) | 合併 | ✅ |
-| **Ch.10** New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ⏳ |
-| **Ch.11** New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ⏳ |
-| **Ch.12** Remote Patient Monitoring in Orthopaedic Surgery | — | 🆕 新增 | ⏳ |
+| [**Ch.10**]({{< relref "/oku15/chapter_10.md" >}}) New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
+| [**Ch.11**]({{< relref "/oku15/chapter_11.md" >}}) New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
+| [**Ch.12**]({{< relref "/oku15/chapter_12.md" >}}) Remote Patient Monitoring in Orthopaedic Surgery | — | 🆕 新增 | ✅ |
 | **Ch.13** Structure and Biology of Normal and Diseased Bone | [CH12]({{< relref "/chapter_12.md" >}}) | 相同 | ⏳ |
 | **Ch.14** Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics | [CH13]({{< relref "/chapter_13.md" >}}) | 相同 | ⏳ |
 | **Ch.15** Musculoskeletal Mechanics and Kinesiology | [CH14]({{< relref "/chapter_14.md" >}}) | 相同 | ⏳ |

@@ -59,9 +59,9 @@ weight: 0
 | **Ch.7** *Musculoskeletal Biomechanics and Biomaterials* | [CH8]({{< relref "/chapter_08.md" >}}) 肌肉骨骼生物力學與生物材料 | 相同 | 8 → 14（+6，+75%） ⬆ |
 | **Ch.8** *Musculoskeletal Imaging Principles* | [CH9]({{< relref "/chapter_09.md" >}}) 肌肉骨骼影像學原則 | 相同 | 14 → 16（+2，+14%） |
 | [**Ch.9**]({{< relref "/oku15/chapter_09.md" >}}) *Perioperative Patient Optimization* | [CH6]({{< relref "/chapter_06.md" >}}) 骨科病人術前評估與術後照護<br><small>*Preoperative Evaluation and Postoperative Care of the Orthopaedic Patient*</small>、[CH10]({{< relref "/chapter_10.md" >}}) 病人最佳化<br><small>*Patient Optimization*</small> | 合併 | 26 → 22（-4，-15%） |
-| **Ch.10** *New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality* | [CH11]({{< relref "/chapter_11.md" >}}) 骨科手術新技術：機器人、人工智慧與機器學習<br><small>*New Technology in Orthopaedic Surgery: Robotics, Artificial Intelligence, and Machine Learning*</small> | 拆分 | 10（原章 20 頁拆出） |
-| **Ch.11** *New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning* | [CH11]({{< relref "/chapter_11.md" >}}) 骨科手術新技術：機器人、人工智慧與機器學習<br><small>*New Technology in Orthopaedic Surgery: Robotics, Artificial Intelligence, and Machine Learning*</small> | 拆分 | 16（原章 20 頁拆出） |
-| **Ch.12** *Remote Patient Monitoring in Orthopaedic Surgery* | — | 🆕 新增 | — |
+| [**Ch.10**]({{< relref "/oku15/chapter_10.md" >}}) *New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality* | [CH11]({{< relref "/chapter_11.md" >}}) 骨科手術新技術：機器人、人工智慧與機器學習<br><small>*New Technology in Orthopaedic Surgery: Robotics, Artificial Intelligence, and Machine Learning*</small> | 拆分 | 10（原章 20 頁拆出） |
+| [**Ch.11**]({{< relref "/oku15/chapter_11.md" >}}) *New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning* | [CH11]({{< relref "/chapter_11.md" >}}) 骨科手術新技術：機器人、人工智慧與機器學習<br><small>*New Technology in Orthopaedic Surgery: Robotics, Artificial Intelligence, and Machine Learning*</small> | 拆分 | 16（原章 20 頁拆出） |
+| [**Ch.12**]({{< relref "/oku15/chapter_12.md" >}}) *Remote Patient Monitoring in Orthopaedic Surgery* | — | 🆕 新增 | — |
 
 ### Section 2：Translational Science and Emerging Technologies
 
