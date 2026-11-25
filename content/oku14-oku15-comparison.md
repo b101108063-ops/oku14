@@ -187,7 +187,7 @@ weight: 0
 | **Ch.80** *Sarcomas of Bone* | [CH72]({{< relref "/chapter_72.md" >}}) 骨骼肉瘤 | 相同 | 18 → 18（+0，+0%） |
 | **Ch.81** *Metastatic Tumors of Bone* | [CH73]({{< relref "/chapter_73.md" >}}) 骨轉移性腫瘤 | 相同 | 14 → 18（+4，+29%） |
 | **Ch.82** *Benign Soft-Tissue Tumors and Masses* | [CH74]({{< relref "/chapter_74.md" >}}) 良性軟組織腫瘤與腫塊 | 相同 | 12 → 10（-2，-17%） |
-| **Ch.83** *Soft-Tissue Sarcomas* | [CH75]({{< relref "/chapter_75.md" >}}) 軟組織肉瘤 | 相同 | 21 → 38（+17，+81%） ⬆ |
+| [**Ch.83**]({{< relref "/oku15/chapter_83.md" >}}) *Soft-Tissue Sarcomas* | [CH75]({{< relref "/chapter_75.md" >}}) 軟組織肉瘤 | 相同 | 21 → 38（+17，+81%） ⬆ |
 
 ## 重點變動摘要
 
