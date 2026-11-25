@@ -5,7 +5,7 @@ draft: false
 tags: ["OKU15", "Translational Science", "3D Printing", "PSI", "版本差異"]
 categories: ["OKU 15 更新"]
 weight: 20
-summary: "PDF 6 → 8 頁。範圍縮小為 3D printing 本身；OKU 14 的機器人、導航、術中 3D 影像（O-arm、Airo）、AR、bioprinting／4D printing 全部移出（機器人與導航見 OKU 15 [Ch.10]({{< relref "/oku15/chapter_10.md" >}})）。新增列印製程（powder bed fusion、G code、後處理）與大量臨床數字（足踝客製植入物、triflange、脊椎 cage、PSI、模型）。"
+summary: "PDF 6 → 8 頁。範圍縮小為 3D printing 本身；OKU 14 的機器人、導航、術中 3D 影像（O-arm、Airo）、AR、bioprinting／4D printing 全部移出（機器人與導航見 OKU 15 [Ch.10]({{< relref 「/oku15/chapter_10.md」 >}})）。新增列印製程（powder bed fusion、G code、後處理）與大量臨床數字（足踝客製植入物、triflange、脊椎 cage、PSI、模型）。"
 ---
 
 > **對照：**OKU 14 [CH19 Applications of Three-Dimensional Technologies in Orthopaedic Surgery]({{< relref "/chapter_19.md" >}}) → OKU 15 **Ch.20**｜PDF 6 → 8 頁｜作者：Samuel B. Adams Jr（足踝背景，單一作者）
