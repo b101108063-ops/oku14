@@ -46,6 +46,8 @@ jobs:
           test -f public/index.html
           test -f public/chapter_01/index.html
           test -f public/chapter_75/index.html
+          test -f public/oku15/index.html
+          test -f public/oku15/chapter_30/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
