@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **39 / 83** 章；⏳ 表示整理中。
+已完成 **43 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -56,10 +56,10 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.36](chapter_36/) | 手與腕的骨與軟組織感染及血管疾病（Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist） |
 | [Ch.37](chapter_37/) | 手與腕關節炎（Hand and Wrist Arthritis） |
 | [Ch.38](chapter_38/) | 手與腕的神經疾病（Nerve Conditions of the Hand and Wrist） |
-| Ch.39 ⏳ | 手與腕的韌帶損傷（Ligament Injuries of the Hand and Wrist） |
-| Ch.40 ⏳ | 手與腕的肌腱損傷與肌腱病（Tendon Injuries and Tendinopathies of the Hand and Wrist） |
-| Ch.41 ⏳ | 手與腕損傷、骨折與重建：固定觀念的轉變（Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms） |
-| Ch.42 ⏳ | 顯微外科與再植（Microsurgery and Replantation） |
+| [Ch.39](chapter_39/) | 手與腕的韌帶損傷（Ligament Injuries of the Hand and Wrist） |
+| [Ch.40](chapter_40/) | 手與腕的肌腱損傷與肌腱病（Tendon Injuries and Tendinopathies of the Hand and Wrist） |
+| [Ch.41](chapter_41/) | 手與腕損傷、骨折與重建：固定觀念的轉變（Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms） |
+| [Ch.42](chapter_42/) | 顯微外科與再植（Microsurgery and Replantation） |
 | Ch.43 ⏳ | 髖關節解剖與生物力學、評估、理學檢查與影像（Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip） |
 | Ch.44 ⏳ | 髖關節保留（Hip Preservation） |
 | Ch.45 ⏳ | 髖關節肌肉、神經血管與軟組織疾病（Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip） |

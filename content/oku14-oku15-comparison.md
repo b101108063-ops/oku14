@@ -113,10 +113,10 @@ weight: 0
 | [**Ch.36**]({{< relref "/oku15/chapter_36.md" >}}) *Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist* | [CH34]({{< relref "/chapter_34.md" >}}) 手與腕的骨與軟組織感染及血管疾病 | 相同 | 10 → 8（-2，-20%） |
 | [**Ch.37**]({{< relref "/oku15/chapter_37.md" >}}) *Hand and Wrist Arthritis* | [CH35]({{< relref "/chapter_35.md" >}}) 神經病變與手部關節炎<br><small>*Neuropathies and Hand Arthritis*</small> | 拆分 | 8（原章 14 頁拆出） |
 | [**Ch.38**]({{< relref "/oku15/chapter_38.md" >}}) *Nerve Conditions of the Hand and Wrist* | [CH35]({{< relref "/chapter_35.md" >}}) 神經病變與手部關節炎<br><small>*Neuropathies and Hand Arthritis*</small> | 拆分 | 12（原章 14 頁拆出） |
-| **Ch.39** *Ligament Injuries of the Hand and Wrist* | [CH36]({{< relref "/chapter_36.md" >}}) 腕關節韌帶損傷<br><small>*Ligament Injuries of the Wrist*</small> | 改名／範圍調整 | 12 → 18（+6，+50%） ⬆ |
-| **Ch.40** *Tendon Injuries and Tendinopathies of the Hand and Wrist* | [CH37]({{< relref "/chapter_37.md" >}}) 手腕肌腱損傷與肌腱病 | 相同 | 16 → 14（-2，-12%） |
-| **Ch.41** *Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms* | [CH38]({{< relref "/chapter_38.md" >}}) 手腕損傷、骨折與重建：顯微外科與再植<br><small>*Hand and Wrist Injuries, Fractures, and Reconstruction: Microsurgery and Replantation*</small> | 拆分 | 16（原章 16 頁拆出） |
-| **Ch.42** *Microsurgery and Replantation* | [CH38]({{< relref "/chapter_38.md" >}}) 手腕損傷、骨折與重建：顯微外科與再植<br><small>*Hand and Wrist Injuries, Fractures, and Reconstruction: Microsurgery and Replantation*</small> | 拆分 | 12（原章 16 頁拆出） |
+| [**Ch.39**]({{< relref "/oku15/chapter_39.md" >}}) *Ligament Injuries of the Hand and Wrist* | [CH36]({{< relref "/chapter_36.md" >}}) 腕關節韌帶損傷<br><small>*Ligament Injuries of the Wrist*</small> | 改名／範圍調整 | 12 → 18（+6，+50%） ⬆ |
+| [**Ch.40**]({{< relref "/oku15/chapter_40.md" >}}) *Tendon Injuries and Tendinopathies of the Hand and Wrist* | [CH37]({{< relref "/chapter_37.md" >}}) 手腕肌腱損傷與肌腱病 | 相同 | 16 → 14（-2，-12%） |
+| [**Ch.41**]({{< relref "/oku15/chapter_41.md" >}}) *Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms* | [CH38]({{< relref "/chapter_38.md" >}}) 手腕損傷、骨折與重建：顯微外科與再植<br><small>*Hand and Wrist Injuries, Fractures, and Reconstruction: Microsurgery and Replantation*</small> | 拆分 | 16（原章 16 頁拆出） |
+| [**Ch.42**]({{< relref "/oku15/chapter_42.md" >}}) *Microsurgery and Replantation* | [CH38]({{< relref "/chapter_38.md" >}}) 手腕損傷、骨折與重建：顯微外科與再植<br><small>*Hand and Wrist Injuries, Fractures, and Reconstruction: Microsurgery and Replantation*</small> | 拆分 | 12（原章 16 頁拆出） |
 
 ### Section 7：Hip and Femur
 
