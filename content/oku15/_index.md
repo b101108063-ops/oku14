@@ -7,7 +7,7 @@ draft: false
 
 每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
 
-**進度：14 / 83 章**
+**進度：23 / 83 章**
 
 | OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
 |---|---|---|---|
@@ -23,15 +23,15 @@ draft: false
 | [**Ch.10**]({{< relref "/oku15/chapter_10.md" >}}) New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
 | [**Ch.11**]({{< relref "/oku15/chapter_11.md" >}}) New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
 | [**Ch.12**]({{< relref "/oku15/chapter_12.md" >}}) Remote Patient Monitoring in Orthopaedic Surgery | — | 🆕 新增 | ✅ |
-| **Ch.13** Structure and Biology of Normal and Diseased Bone | [CH12]({{< relref "/chapter_12.md" >}}) | 相同 | ⏳ |
-| **Ch.14** Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics | [CH13]({{< relref "/chapter_13.md" >}}) | 相同 | ⏳ |
-| **Ch.15** Musculoskeletal Mechanics and Kinesiology | [CH14]({{< relref "/chapter_14.md" >}}) | 相同 | ⏳ |
-| **Ch.16** Normal and Abnormal Fracture Healing | [CH15]({{< relref "/chapter_15.md" >}}) | 相同 | ⏳ |
-| **Ch.17** Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy | [CH16]({{< relref "/chapter_16.md" >}}) | 相同 | ⏳ |
-| **Ch.18** Muscle and Nerve Disorders | [CH17]({{< relref "/chapter_17.md" >}}) | 相同 | ⏳ |
-| **Ch.19** Orthopaedic Infections and Microbiology | [CH18]({{< relref "/chapter_18.md" >}}) | 相同 | ⏳ |
-| **Ch.20** Application of Three-Dimensional Printing to Orthopaedic Surgery | [CH19]({{< relref "/chapter_19.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.21** Inflammation and Immunology in Osteoarthritis | [CH20]({{< relref "/chapter_20.md" >}}) | 改名／範圍調整 | ⏳ |
+| [**Ch.13**]({{< relref "/oku15/chapter_13.md" >}}) Structure and Biology of Normal and Diseased Bone | [CH12]({{< relref "/chapter_12.md" >}}) | 相同 | ✅ |
+| [**Ch.14**]({{< relref "/oku15/chapter_14.md" >}}) Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics | [CH13]({{< relref "/chapter_13.md" >}}) | 相同 | ✅ |
+| [**Ch.15**]({{< relref "/oku15/chapter_15.md" >}}) Musculoskeletal Mechanics and Kinesiology | [CH14]({{< relref "/chapter_14.md" >}}) | 相同 | ✅ |
+| [**Ch.16**]({{< relref "/oku15/chapter_16.md" >}}) Normal and Abnormal Fracture Healing | [CH15]({{< relref "/chapter_15.md" >}}) | 相同 | ✅ |
+| [**Ch.17**]({{< relref "/oku15/chapter_17.md" >}}) Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy | [CH16]({{< relref "/chapter_16.md" >}}) | 相同 | ✅ |
+| [**Ch.18**]({{< relref "/oku15/chapter_18.md" >}}) Muscle and Nerve Disorders | [CH17]({{< relref "/chapter_17.md" >}}) | 相同 | ✅ |
+| [**Ch.19**]({{< relref "/oku15/chapter_19.md" >}}) Orthopaedic Infections and Microbiology | [CH18]({{< relref "/chapter_18.md" >}}) | 相同 | ✅ |
+| [**Ch.20**]({{< relref "/oku15/chapter_20.md" >}}) Application of Three-Dimensional Printing to Orthopaedic Surgery | [CH19]({{< relref "/chapter_19.md" >}}) | 改名／範圍調整 | ✅ |
+| [**Ch.21**]({{< relref "/oku15/chapter_21.md" >}}) Inflammation and Immunology in Osteoarthritis | [CH20]({{< relref "/chapter_20.md" >}}) | 改名／範圍調整 | ✅ |
 | **Ch.22** Polytrauma Care | [CH21]({{< relref "/chapter_21.md" >}}) | 相同 | ⏳ |
 | **Ch.23** Management of Open Fractures | [CH22]({{< relref "/chapter_22.md" >}}) | 相同 | ⏳ |
 | **Ch.24** Upper Extremity Trauma | [CH23]({{< relref "/chapter_23.md" >}}) | 相同 | ⏳ |

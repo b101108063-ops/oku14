@@ -67,15 +67,15 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.13** *Structure and Biology of Normal and Diseased Bone* | [CH12]({{< relref "/chapter_12.md" >}}) 正常骨與病變骨的結構與生物學 | 相同 | 16 → 20（+4，+25%） |
-| **Ch.14** *Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics* | [CH13]({{< relref "/chapter_13.md" >}}) 生物材料與植入物 | 相同 | 12 → 8（-4，-33%） |
-| **Ch.15** *Musculoskeletal Mechanics and Kinesiology* | [CH14]({{< relref "/chapter_14.md" >}}) 肌肉骨骼力學與動作學 | 相同 | 14 → 16（+2，+14%） |
-| **Ch.16** *Normal and Abnormal Fracture Healing* | [CH15]({{< relref "/chapter_15.md" >}}) 正常與異常骨折癒合 | 相同 | 8 → 10（+2，+25%） |
-| **Ch.17** *Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy* | [CH16]({{< relref "/chapter_16.md" >}}) 關節軟骨生物學、骨關節炎、生物製劑與幹細胞治療 | 相同 | 16 → 14（-2，-12%） |
-| **Ch.18** *Muscle and Nerve Disorders* | [CH17]({{< relref "/chapter_17.md" >}}) 肌肉與神經疾病 | 相同 | 16 → 14（-2，-12%） |
-| **Ch.19** *Orthopaedic Infections and Microbiology* | [CH18]({{< relref "/chapter_18.md" >}}) 骨科感染與微生物學 | 相同 | 12 → 10（-2，-17%） |
-| **Ch.20** *Application of Three-Dimensional Printing to Orthopaedic Surgery* | [CH19]({{< relref "/chapter_19.md" >}}) 骨科手術三維度技術的應用<br><small>*Applications of Three-Dimensional Technologies in Orthopaedic Surgery*</small> | 改名／範圍調整 | 6 → 8（+2，+33%） |
-| **Ch.21** *Inflammation and Immunology in Osteoarthritis* | [CH20]({{< relref "/chapter_20.md" >}}) 發炎與免疫學<br><small>*Inflammation and Immunology*</small> | 改名／範圍調整 | 18 → 16（-2，-11%） |
+| [**Ch.13**]({{< relref "/oku15/chapter_13.md" >}}) *Structure and Biology of Normal and Diseased Bone* | [CH12]({{< relref "/chapter_12.md" >}}) 正常骨與病變骨的結構與生物學 | 相同 | 16 → 20（+4，+25%） |
+| [**Ch.14**]({{< relref "/oku15/chapter_14.md" >}}) *Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics* | [CH13]({{< relref "/chapter_13.md" >}}) 生物材料與植入物 | 相同 | 12 → 8（-4，-33%） |
+| [**Ch.15**]({{< relref "/oku15/chapter_15.md" >}}) *Musculoskeletal Mechanics and Kinesiology* | [CH14]({{< relref "/chapter_14.md" >}}) 肌肉骨骼力學與動作學 | 相同 | 14 → 16（+2，+14%） |
+| [**Ch.16**]({{< relref "/oku15/chapter_16.md" >}}) *Normal and Abnormal Fracture Healing* | [CH15]({{< relref "/chapter_15.md" >}}) 正常與異常骨折癒合 | 相同 | 8 → 10（+2，+25%） |
+| [**Ch.17**]({{< relref "/oku15/chapter_17.md" >}}) *Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy* | [CH16]({{< relref "/chapter_16.md" >}}) 關節軟骨生物學、骨關節炎、生物製劑與幹細胞治療 | 相同 | 16 → 14（-2，-12%） |
+| [**Ch.18**]({{< relref "/oku15/chapter_18.md" >}}) *Muscle and Nerve Disorders* | [CH17]({{< relref "/chapter_17.md" >}}) 肌肉與神經疾病 | 相同 | 16 → 14（-2，-12%） |
+| [**Ch.19**]({{< relref "/oku15/chapter_19.md" >}}) *Orthopaedic Infections and Microbiology* | [CH18]({{< relref "/chapter_18.md" >}}) 骨科感染與微生物學 | 相同 | 12 → 10（-2，-17%） |
+| [**Ch.20**]({{< relref "/oku15/chapter_20.md" >}}) *Application of Three-Dimensional Printing to Orthopaedic Surgery* | [CH19]({{< relref "/chapter_19.md" >}}) 骨科手術三維度技術的應用<br><small>*Applications of Three-Dimensional Technologies in Orthopaedic Surgery*</small> | 改名／範圍調整 | 6 → 8（+2，+33%） |
+| [**Ch.21**]({{< relref "/oku15/chapter_21.md" >}}) *Inflammation and Immunology in Osteoarthritis* | [CH20]({{< relref "/chapter_20.md" >}}) 發炎與免疫學<br><small>*Inflammation and Immunology*</small> | 改名／範圍調整 | 18 → 16（-2，-11%） |
 
 ### Section 3：Trauma
 
