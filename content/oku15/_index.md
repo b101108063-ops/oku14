@@ -7,7 +7,7 @@ draft: false
 
 每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
 
-**進度：13 / 83 章**
+**進度：14 / 83 章**
 
 | OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
 |---|---|---|---|
@@ -18,7 +18,7 @@ draft: false
 | [**Ch.5**]({{< relref "/oku15/chapter_05.md" >}}) Healthcare Policy | [CH5]({{< relref "/chapter_05.md" >}}) | 相同 | ✅ |
 | [**Ch.6**]({{< relref "/oku15/chapter_06.md" >}}) Coagulation and Blood Management | [CH7]({{< relref "/chapter_07.md" >}}) | 相同 | ✅ |
 | [**Ch.7**]({{< relref "/oku15/chapter_07.md" >}}) Musculoskeletal Biomechanics and Biomaterials | [CH8]({{< relref "/chapter_08.md" >}}) | 相同 | ✅ |
-| **Ch.8** Musculoskeletal Imaging Principles | [CH9]({{< relref "/chapter_09.md" >}}) | 相同 | ⏳ |
+| [**Ch.8**]({{< relref "/oku15/chapter_08.md" >}}) Musculoskeletal Imaging Principles | [CH9]({{< relref "/chapter_09.md" >}}) | 相同 | ✅ |
 | [**Ch.9**]({{< relref "/oku15/chapter_09.md" >}}) Perioperative Patient Optimization | [CH6]({{< relref "/chapter_06.md" >}})、[CH10]({{< relref "/chapter_10.md" >}}) | 合併 | ✅ |
 | [**Ch.10**]({{< relref "/oku15/chapter_10.md" >}}) New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
 | [**Ch.11**]({{< relref "/oku15/chapter_11.md" >}}) New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
