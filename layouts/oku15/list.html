@@ -1,0 +1,20 @@
+{{- define "main" }}
+{{- /* OKU 15 section index: render the hand-written _index.md only.
+       The theme's default list appends a paginated card list of every
+       chapter (10 per page), which duplicates the index tables. */ -}}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . | markdownify }}</div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content md-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+{{- end }}{{- /* end main */ -}}
