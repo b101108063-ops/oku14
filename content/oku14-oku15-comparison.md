@@ -50,7 +50,7 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.1** *Orthopaedic Research* | [CH1]({{< relref "/chapter_01.md" >}}) 骨科研究方法與實證層級 | 相同 | 8 → 10（+2，+25%） |
+| [**Ch.1**]({{< relref "/oku15/chapter_01.md" >}}) *Orthopaedic Research* | [CH1]({{< relref "/chapter_01.md" >}}) 骨科研究方法與實證層級 | 相同 | 8 → 10（+2，+25%） |
 | [**Ch.2**]({{< relref "/oku15/chapter_02.md" >}}) *Biostatistics* | [CH2]({{< relref "/chapter_02.md" >}}) 生物統計學 | 相同 | 12 → 6（-6，-50%） |
 | **Ch.3** *Orthopaedic Patient Safety: Core Competencies and Communication Skills* | [CH3]({{< relref "/chapter_03.md" >}}) 骨科病人安全：核心能力與溝通技巧 | 相同 | 10 → 16（+6，+60%） ⬆ |
 | **Ch.4** *Regulation of Orthopaedic Products* | [CH4]({{< relref "/chapter_04.md" >}}) 骨科產品的法規管制 | 相同 | 12 → 8（-4，-33%） |
