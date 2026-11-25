@@ -122,10 +122,10 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.43** *Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip* | [CH39]({{< relref "/chapter_39.md" >}}) 髖關節解剖與生物力學、評估、理學檢查與影像 | 相同 | 10 → 14（+4，+40%） ⬆ |
-| **Ch.44** *Hip Preservation* | [CH40]({{< relref "/chapter_40.md" >}}) 髖關節早期退行性病變<br><small>*Early Degenerative Conditions of the Hip*</small> | 改名／範圍調整 | 12 → 8（-4，-33%） |
-| **Ch.45** *Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip* | [CH41]({{< relref "/chapter_41.md" >}}) 髖關節肌肉、神經血管與軟組織疾病 | 相同 | 12 → 8（-4，-33%） |
-| **Ch.46** *End-Stage Hip Degeneration and Hip Reconstruction* | [CH42]({{< relref "/chapter_42.md" >}}) 髖關節終末期退化與髖關節重建 | 相同 | 14 → 12（-2，-14%） |
+| [**Ch.43**]({{< relref "/oku15/chapter_43.md" >}}) *Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip* | [CH39]({{< relref "/chapter_39.md" >}}) 髖關節解剖與生物力學、評估、理學檢查與影像 | 相同 | 10 → 14（+4，+40%） ⬆ |
+| [**Ch.44**]({{< relref "/oku15/chapter_44.md" >}}) *Hip Preservation* | [CH40]({{< relref "/chapter_40.md" >}}) 髖關節早期退行性病變<br><small>*Early Degenerative Conditions of the Hip*</small> | 改名／範圍調整 | 12 → 8（-4，-33%） |
+| [**Ch.45**]({{< relref "/oku15/chapter_45.md" >}}) *Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip* | [CH41]({{< relref "/chapter_41.md" >}}) 髖關節肌肉、神經血管與軟組織疾病 | 相同 | 12 → 8（-4，-33%） |
+| [**Ch.46**]({{< relref "/oku15/chapter_46.md" >}}) *End-Stage Hip Degeneration and Hip Reconstruction* | [CH42]({{< relref "/chapter_42.md" >}}) 髖關節終末期退化與髖關節重建 | 相同 | 14 → 12（-2，-14%） |
 
 ### Section 8：Knee
 
