@@ -100,10 +100,10 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.31** *Anatomy, Biomechanics, Physical Examination, and Imaging of the Elbow* | [CH30]({{< relref "/chapter_30.md" >}}) 肘部解剖、生物力學、理學檢查與影像 | 相同 | 12 → 14（+2，+17%） |
-| **Ch.32** *Elbow Degenerative Conditions and Nerve Disorders* | [CH31]({{< relref "/chapter_31.md" >}}) 肘部退行性疾病與神經病變 | 相同 | 14 → 18（+4，+29%） |
-| **Ch.33** *Elbow Tendinopathy, Throwing Injuries, and Ligament Reconstruction* | [CH32]({{< relref "/chapter_32.md" >}}) 肌腱病、投擲傷害與肘韌帶重建<br><small>*Tendinopathy, Throwing Injuries, and Elbow Ligament Reconstruction*</small> | 相同 | 22 → 18（-4，-18%） |
-| **Ch.34** *Elbow Arthroscopy and Chondral Lesions* | — | 🆕 新增 | — |
+| [**Ch.31**]({{< relref "/oku15/chapter_31.md" >}}) *Anatomy, Biomechanics, Physical Examination, and Imaging of the Elbow* | [CH30]({{< relref "/chapter_30.md" >}}) 肘部解剖、生物力學、理學檢查與影像 | 相同 | 12 → 14（+2，+17%） |
+| [**Ch.32**]({{< relref "/oku15/chapter_32.md" >}}) *Elbow Degenerative Conditions and Nerve Disorders* | [CH31]({{< relref "/chapter_31.md" >}}) 肘部退行性疾病與神經病變 | 相同 | 14 → 18（+4，+29%） |
+| [**Ch.33**]({{< relref "/oku15/chapter_33.md" >}}) *Elbow Tendinopathy, Throwing Injuries, and Ligament Reconstruction* | [CH32]({{< relref "/chapter_32.md" >}}) 肌腱病、投擲傷害與肘韌帶重建<br><small>*Tendinopathy, Throwing Injuries, and Elbow Ligament Reconstruction*</small> | 相同 | 22 → 18（-4，-18%） |
+| [**Ch.34**]({{< relref "/oku15/chapter_34.md" >}}) *Elbow Arthroscopy and Chondral Lesions* | — | 🆕 新增 | — |
 
 ### Section 6：Hand and Wrist
 
