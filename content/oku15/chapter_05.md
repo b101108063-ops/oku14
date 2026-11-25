@@ -5,10 +5,10 @@ draft: false
 tags: ["OKU15", "General Topics", "Health Policy", "版本差異"]
 categories: ["OKU 15 更新"]
 weight: 5
-summary: "篇幅 18 → 12 頁，作者重寫。保留 Medicare／Medicaid、ACA、MACRA、BPCI／CJR；新增 Medicare 各 Part 的資金來源、21st Century Cures Act（Breakthrough Devices、RMAT）、prior authorization 改革、2026 年的 TEAM 新模式、MVP、THA／TKA PROM 強制申報時程，以及倡議與 PAC。DRG、HAC、星等評分、ASC、價格透明不再涵蓋。"
+summary: "篇幅 18 → 8 頁，作者重寫。保留 Medicare／Medicaid、ACA、MACRA、BPCI／CJR；新增 Medicare 各 Part 的資金來源、21st Century Cures Act（Breakthrough Devices、RMAT）、prior authorization 改革、2026 年的 TEAM 新模式、MVP、THA／TKA PROM 強制申報時程，以及倡議與 PAC。DRG、HAC、星等評分、ASC、價格透明不再涵蓋。"
 ---
 
-> **對照：**OKU 14 [CH5 Health Policy]({{< relref "/chapter_05.md" >}}) → OKU 15 **Ch.5 Healthcare Policy**｜PDF 18 → 12 頁（−33%）｜作者重寫
+> **對照：**OKU 14 [CH5 Health Policy]({{< relref "/chapter_05.md" >}}) → OKU 15 **Ch.5 Healthcare Policy**｜PDF 18 → 8 頁（−56%；原 csv 誤將 Ch.6 開頭 4 頁算入本章）｜作者重寫
 >
 > **來源說明：**OKU 15 這章是掃描檔，本頁根據 OCR 文字整理。內容以**美國制度**為主，台灣考試較少出現，但 OKU 題庫常考。
 >

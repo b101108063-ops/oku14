@@ -54,8 +54,8 @@ weight: 0
 | [**Ch.2**]({{< relref "/oku15/chapter_02.md" >}}) *Biostatistics* | [CH2]({{< relref "/chapter_02.md" >}}) 生物統計學 | 相同 | 12 → 6（-6，-50%） |
 | [**Ch.3**]({{< relref "/oku15/chapter_03.md" >}}) *Orthopaedic Patient Safety: Core Competencies and Communication Skills* | [CH3]({{< relref "/chapter_03.md" >}}) 骨科病人安全：核心能力與溝通技巧 | 相同 | 10 → 16（+6，+60%） ⬆ |
 | [**Ch.4**]({{< relref "/oku15/chapter_04.md" >}}) *Regulation of Orthopaedic Products* | [CH4]({{< relref "/chapter_04.md" >}}) 骨科產品的法規管制 | 相同 | 12 → 8（-4，-33%） |
-| [**Ch.5**]({{< relref "/oku15/chapter_05.md" >}}) *Healthcare Policy* | [CH5]({{< relref "/chapter_05.md" >}}) 醫療政策<br><small>*Health Policy*</small> | 相同 | 18 → 12（-6，-33%） |
-| **Ch.6** *Coagulation and Blood Management* | [CH7]({{< relref "/chapter_07.md" >}}) 凝血功能與血液管理 | 相同 | 12 → 12（+0，+0%） |
+| [**Ch.5**]({{< relref "/oku15/chapter_05.md" >}}) *Healthcare Policy* | [CH5]({{< relref "/chapter_05.md" >}}) 醫療政策<br><small>*Health Policy*</small> | 相同 | 18 → 8（-10，-56%） |
+| [**Ch.6**]({{< relref "/oku15/chapter_06.md" >}}) *Coagulation and Blood Management* | [CH7]({{< relref "/chapter_07.md" >}}) 凝血功能與血液管理 | 相同 | 12 → 16（+4，+33%） |
 | **Ch.7** *Musculoskeletal Biomechanics and Biomaterials* | [CH8]({{< relref "/chapter_08.md" >}}) 肌肉骨骼生物力學與生物材料 | 相同 | 8 → 14（+6，+75%） ⬆ |
 | **Ch.8** *Musculoskeletal Imaging Principles* | [CH9]({{< relref "/chapter_09.md" >}}) 肌肉骨骼影像學原則 | 相同 | 14 → 16（+2，+14%） |
 | [**Ch.9**]({{< relref "/oku15/chapter_09.md" >}}) *Perioperative Patient Optimization* | [CH6]({{< relref "/chapter_06.md" >}}) 骨科病人術前評估與術後照護<br><small>*Preoperative Evaluation and Postoperative Care of the Orthopaedic Patient*</small>、[CH10]({{< relref "/chapter_10.md" >}}) 病人最佳化<br><small>*Patient Optimization*</small> | 合併 | 26 → 22（-4，-15%） |
