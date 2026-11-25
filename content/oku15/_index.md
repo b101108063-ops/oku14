@@ -5,243 +5,99 @@ date: 2026-11-25
 draft: false
 ---
 
-
-每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
-
-<a id="overview"></a>
-
-## 進度總覽：31 / 83 章（37%）
-
-| Section | 主題 | 章節 | 進度 | 完成 |
-|---|---|---|---|---|
-| [**S1**](#section-1) | 總論<br><small>*General Topics*</small> | Ch.1–12 | ▰▰▰▰▰▰▰▰▰▰ | 12 / 12 ✅ |
-| [**S2**](#section-2) | 轉譯科學與新興技術<br><small>*Translational Science and Emerging Technologies*</small> | Ch.13–21 | ▰▰▰▰▰▰▰▰▰▰ | 9 / 9 ✅ |
-| [**S3**](#section-3) | 創傷<br><small>*Trauma*</small> | Ch.22–26 | ▰▰▰▰▰▰▰▰▰▰ | 5 / 5 ✅ |
-| [**S4**](#section-4) | 肩<br><small>*Shoulder*</small> | Ch.27–30 | ▰▰▰▰▰▰▰▰▰▰ | 4 / 4 ✅ |
-| [**S5**](#section-5) | 肘<br><small>*Elbow*</small> | Ch.31–34 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 4 |
-| [**S6**](#section-6) | 手與腕<br><small>*Hand and Wrist*</small> | Ch.35–42 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 8 |
-| [**S7**](#section-7) | 髖與股骨<br><small>*Hip and Femur*</small> | Ch.43–46 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 4 |
-| [**S8**](#section-8) | 膝<br><small>*Knee*</small> | Ch.47–52 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 6 |
-| [**S9**](#section-9) | 足踝<br><small>*Foot and Ankle*</small> | Ch.53–56 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 4 |
-| [**S10**](#section-10) | 脊椎<br><small>*Spine*</small> | Ch.57–65 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 9 |
-| [**S11**](#section-11) | 兒童<br><small>*Pediatrics*</small> | Ch.66–77 | ▱▱▱▱▱▱▱▱▱▱ | 0 / 12 |
-| [**S12**](#section-12) | 腫瘤與病理<br><small>*Oncology and Pathology*</small> | Ch.78–83 | ▰▰▱▱▱▱▱▱▱▱ | 1 / 6 |
-
-**每章頁面內容：**考點變更總表（🆕 新增、🔄 改變、✅ 一致、❌ OKU 15 不再涵蓋）→ 逐節考點 → OKU 14 被刪除但仍可能考的內容 → Key Study Points → Anki 候選題。
-
-**「類型」說明：**相同＝同名或對應一章；拆分＝OKU 14 一章拆成多章；合併＝多章併成一章；改名／範圍調整＝主題相近但章名或範圍改變；🆕 新增＝OKU 14 沒有對應章；移至其他 Section＝內容搬到別的 Section。
-
-<a id="section-1"></a>
-
-## Section 1：總論（General Topics）
-
-Ch.1–12｜完成 12 / 12　✅ 全部完成
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| [**Ch.1**]({{< relref "/oku15/chapter_01.md" >}}) Orthopaedic Research | [CH1]({{< relref "/chapter_01.md" >}}) | 相同 | ✅ |
-| [**Ch.2**]({{< relref "/oku15/chapter_02.md" >}}) Biostatistics | [CH2]({{< relref "/chapter_02.md" >}}) | 相同 | ✅ |
-| [**Ch.3**]({{< relref "/oku15/chapter_03.md" >}}) Orthopaedic Patient Safety: Core Competencies and Communication Skills | [CH3]({{< relref "/chapter_03.md" >}}) | 相同 | ✅ |
-| [**Ch.4**]({{< relref "/oku15/chapter_04.md" >}}) Regulation of Orthopaedic Products | [CH4]({{< relref "/chapter_04.md" >}}) | 相同 | ✅ |
-| [**Ch.5**]({{< relref "/oku15/chapter_05.md" >}}) Healthcare Policy | [CH5]({{< relref "/chapter_05.md" >}}) | 相同 | ✅ |
-| [**Ch.6**]({{< relref "/oku15/chapter_06.md" >}}) Coagulation and Blood Management | [CH7]({{< relref "/chapter_07.md" >}}) | 相同 | ✅ |
-| [**Ch.7**]({{< relref "/oku15/chapter_07.md" >}}) Musculoskeletal Biomechanics and Biomaterials | [CH8]({{< relref "/chapter_08.md" >}}) | 相同 | ✅ |
-| [**Ch.8**]({{< relref "/oku15/chapter_08.md" >}}) Musculoskeletal Imaging Principles | [CH9]({{< relref "/chapter_09.md" >}}) | 相同 | ✅ |
-| [**Ch.9**]({{< relref "/oku15/chapter_09.md" >}}) Perioperative Patient Optimization | [CH6]({{< relref "/chapter_06.md" >}})、[CH10]({{< relref "/chapter_10.md" >}}) | 合併 | ✅ |
-| [**Ch.10**]({{< relref "/oku15/chapter_10.md" >}}) New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
-| [**Ch.11**]({{< relref "/oku15/chapter_11.md" >}}) New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning | [CH11]({{< relref "/chapter_11.md" >}}) | 拆分 | ✅ |
-| [**Ch.12**]({{< relref "/oku15/chapter_12.md" >}}) Remote Patient Monitoring in Orthopaedic Surgery | — | 🆕 新增 | ✅ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-2"></a>
-
-## Section 2：轉譯科學與新興技術（Translational Science and Emerging Technologies）
-
-Ch.13–21｜完成 9 / 9　✅ 全部完成
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| [**Ch.13**]({{< relref "/oku15/chapter_13.md" >}}) Structure and Biology of Normal and Diseased Bone | [CH12]({{< relref "/chapter_12.md" >}}) | 相同 | ✅ |
-| [**Ch.14**]({{< relref "/oku15/chapter_14.md" >}}) Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics | [CH13]({{< relref "/chapter_13.md" >}}) | 相同 | ✅ |
-| [**Ch.15**]({{< relref "/oku15/chapter_15.md" >}}) Musculoskeletal Mechanics and Kinesiology | [CH14]({{< relref "/chapter_14.md" >}}) | 相同 | ✅ |
-| [**Ch.16**]({{< relref "/oku15/chapter_16.md" >}}) Normal and Abnormal Fracture Healing | [CH15]({{< relref "/chapter_15.md" >}}) | 相同 | ✅ |
-| [**Ch.17**]({{< relref "/oku15/chapter_17.md" >}}) Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy | [CH16]({{< relref "/chapter_16.md" >}}) | 相同 | ✅ |
-| [**Ch.18**]({{< relref "/oku15/chapter_18.md" >}}) Muscle and Nerve Disorders | [CH17]({{< relref "/chapter_17.md" >}}) | 相同 | ✅ |
-| [**Ch.19**]({{< relref "/oku15/chapter_19.md" >}}) Orthopaedic Infections and Microbiology | [CH18]({{< relref "/chapter_18.md" >}}) | 相同 | ✅ |
-| [**Ch.20**]({{< relref "/oku15/chapter_20.md" >}}) Application of Three-Dimensional Printing to Orthopaedic Surgery | [CH19]({{< relref "/chapter_19.md" >}}) | 改名／範圍調整 | ✅ |
-| [**Ch.21**]({{< relref "/oku15/chapter_21.md" >}}) Inflammation and Immunology in Osteoarthritis | [CH20]({{< relref "/chapter_20.md" >}}) | 改名／範圍調整 | ✅ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-3"></a>
-
-## Section 3：創傷（Trauma）
-
-Ch.22–26｜完成 5 / 5　✅ 全部完成
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| [**Ch.22**]({{< relref "/oku15/chapter_22.md" >}}) Polytrauma Care | [CH21]({{< relref "/chapter_21.md" >}}) | 相同 | ✅ |
-| [**Ch.23**]({{< relref "/oku15/chapter_23.md" >}}) Management of Open Fractures | [CH22]({{< relref "/chapter_22.md" >}}) | 相同 | ✅ |
-| [**Ch.24**]({{< relref "/oku15/chapter_24.md" >}}) Upper Extremity Trauma | [CH23]({{< relref "/chapter_23.md" >}}) | 相同 | ✅ |
-| [**Ch.25**]({{< relref "/oku15/chapter_25.md" >}}) Lower Extremity Trauma | [CH24]({{< relref "/chapter_24.md" >}}) | 相同 | ✅ |
-| [**Ch.26**]({{< relref "/oku15/chapter_26.md" >}}) Pelvic Trauma | [CH25]({{< relref "/chapter_25.md" >}}) | 相同 | ✅ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-4"></a>
-
-## Section 4：肩（Shoulder）
-
-Ch.27–30｜完成 4 / 4　✅ 全部完成
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| [**Ch.27**]({{< relref "/oku15/chapter_27.md" >}}) Shoulder Anatomy and Biomechanics, Clinical Evaluation, and Imaging | [CH27]({{< relref "/chapter_27.md" >}}) | 相同 | ✅ |
-| [**Ch.28**]({{< relref "/oku15/chapter_28.md" >}}) Rotator Cuff Disease, Calcific Tendinitis, and Adhesive Capsulitis | [CH28]({{< relref "/chapter_28.md" >}}) | 拆分 | ✅ |
-| [**Ch.29**]({{< relref "/oku15/chapter_29.md" >}}) Shoulder Injuries in the Throwing Athlete and Glenohumeral Instability | [CH28]({{< relref "/chapter_28.md" >}}) | 拆分 | ✅ |
-| [**Ch.30**]({{< relref "/oku15/chapter_30.md" >}}) Shoulder Arthritis and Arthroplasty | [CH29]({{< relref "/chapter_29.md" >}}) | 相同 | ✅ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-5"></a>
-
-## Section 5：肘（Elbow）
-
-Ch.31–34｜完成 0 / 4
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.31** Anatomy, Biomechanics, Physical Examination, and Imaging of the Elbow | [CH30]({{< relref "/chapter_30.md" >}}) | 相同 | ⏳ |
-| **Ch.32** Elbow Degenerative Conditions and Nerve Disorders | [CH31]({{< relref "/chapter_31.md" >}}) | 相同 | ⏳ |
-| **Ch.33** Elbow Tendinopathy, Throwing Injuries, and Ligament Reconstruction | [CH32]({{< relref "/chapter_32.md" >}}) | 相同 | ⏳ |
-| **Ch.34** Elbow Arthroscopy and Chondral Lesions | — | 🆕 新增 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-6"></a>
-
-## Section 6：手與腕（Hand and Wrist）
-
-Ch.35–42｜完成 0 / 8
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.35** Anatomy, Clinical Examination, and Imaging of the Hand and Wrist | [CH33]({{< relref "/chapter_33.md" >}}) | 相同 | ⏳ |
-| **Ch.36** Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist | [CH34]({{< relref "/chapter_34.md" >}}) | 相同 | ⏳ |
-| **Ch.37** Hand and Wrist Arthritis | [CH35]({{< relref "/chapter_35.md" >}}) | 拆分 | ⏳ |
-| **Ch.38** Nerve Conditions of the Hand and Wrist | [CH35]({{< relref "/chapter_35.md" >}}) | 拆分 | ⏳ |
-| **Ch.39** Ligament Injuries of the Hand and Wrist | [CH36]({{< relref "/chapter_36.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.40** Tendon Injuries and Tendinopathies of the Hand and Wrist | [CH37]({{< relref "/chapter_37.md" >}}) | 相同 | ⏳ |
-| **Ch.41** Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms | [CH38]({{< relref "/chapter_38.md" >}}) | 拆分 | ⏳ |
-| **Ch.42** Microsurgery and Replantation | [CH38]({{< relref "/chapter_38.md" >}}) | 拆分 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-7"></a>
-
-## Section 7：髖與股骨（Hip and Femur）
-
-Ch.43–46｜完成 0 / 4
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.43** Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip | [CH39]({{< relref "/chapter_39.md" >}}) | 相同 | ⏳ |
-| **Ch.44** Hip Preservation | [CH40]({{< relref "/chapter_40.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.45** Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip | [CH41]({{< relref "/chapter_41.md" >}}) | 相同 | ⏳ |
-| **Ch.46** End-Stage Hip Degeneration and Hip Reconstruction | [CH42]({{< relref "/chapter_42.md" >}}) | 相同 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-8"></a>
-
-## Section 8：膝（Knee）
-
-Ch.47–52｜完成 0 / 6
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.47** Ligament Injuries of the Knee | [CH43]({{< relref "/chapter_43.md" >}}) | 相同 | ⏳ |
-| **Ch.48** Knee Articular Cartilage Defects and Cartilage Restoration | [CH44]({{< relref "/chapter_44.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.49** Meniscal Pathology, Repair, and Transplant | [CH45]({{< relref "/chapter_45.md" >}}) | 相同 | ⏳ |
-| **Ch.50** Knee Arthritis and Reconstruction | [CH46]({{< relref "/chapter_46.md" >}}) | 相同 | ⏳ |
-| **Ch.51** Patellofemoral Instability | — | 🆕 新增 | ⏳ |
-| **Ch.52** Malalignment and Osteotomies of the Knee | — | 🆕 新增 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-9"></a>
-
-## Section 9：足踝（Foot and Ankle）
-
-Ch.53–56｜完成 0 / 4
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.53** Foot and Ankle Anatomy and Biomechanics | [CH47]({{< relref "/chapter_47.md" >}}) | 相同 | ⏳ |
-| **Ch.54** Degenerative Conditions and Osteonecrosis of the Foot and Ankle | [CH48]({{< relref "/chapter_48.md" >}}) | 相同 | ⏳ |
-| **Ch.55** The Diabetic Foot | [CH49]({{< relref "/chapter_49.md" >}}) | 相同 | ⏳ |
-| **Ch.56** Foot and Ankle Reconstruction | [CH50]({{< relref "/chapter_50.md" >}}) | 相同 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-10"></a>
-
-## Section 10：脊椎（Spine）
-
-Ch.57–65｜完成 0 / 9
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.57** Spine Anatomy | [CH51]({{< relref "/chapter_51.md" >}}) | 相同 | ⏳ |
-| **Ch.58** Spinal Evaluation, Clinical Examination, and Imaging | [CH52]({{< relref "/chapter_52.md" >}}) | 相同 | ⏳ |
-| **Ch.59** Cervical Degenerative Diseases | [CH53]({{< relref "/chapter_53.md" >}}) | 相同 | ⏳ |
-| **Ch.60** Thoracolumbar Degenerative Disease | [CH54]({{< relref "/chapter_54.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.61** Thoracolumbar Minimally Invasive Surgical Techniques | [CH55]({{< relref "/chapter_55.md" >}}) | 相同 | ⏳ |
-| **Ch.62** Spinal Column Infections | [CH56]({{< relref "/chapter_56.md" >}}) | 相同 | ⏳ |
-| **Ch.63** Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine | [CH57]({{< relref "/chapter_57.md" >}}) | 相同 | ⏳ |
-| **Ch.64** Spine Trauma | [CH26]({{< relref "/chapter_26.md" >}}) | 移至其他 Section | ⏳ |
-| **Ch.65** Adult Spinal Deformity | — | 🆕 新增 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-11"></a>
-
-## Section 11：兒童（Pediatrics）
-
-Ch.66–77｜完成 0 / 12
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.66** Pediatric Shoulder, Upper Arm, and Elbow Trauma | [CH58]({{< relref "/chapter_58.md" >}}) | 相同 | ⏳ |
-| **Ch.67** Pediatric Forearm, Wrist, and Hand Trauma | [CH59]({{< relref "/chapter_59.md" >}}) | 相同 | ⏳ |
-| **Ch.68** Congenital Disorders of the Upper Limb | [CH60]({{< relref "/chapter_60.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.69** Pediatric Pelvis, Hip, and Femur Trauma | [CH61]({{< relref "/chapter_61.md" >}}) | 相同 | ⏳ |
-| **Ch.70** Pediatric Knee, Leg, Ankle, and Foot Fractures | [CH62]({{< relref "/chapter_62.md" >}}) | 改名／範圍調整 | ⏳ |
-| **Ch.71** Pediatric Hip Disorders | [CH63]({{< relref "/chapter_63.md" >}}) | 相同 | ⏳ |
-| **Ch.72** Pediatric Lower Extremity and Foot Disorders | [CH64]({{< relref "/chapter_64.md" >}}) | 相同 | ⏳ |
-| **Ch.73** Pediatric Athletic Injuries | [CH65]({{< relref "/chapter_65.md" >}}) | 相同 | ⏳ |
-| **Ch.74** Pediatric Spine Disorders and Trauma | [CH66]({{< relref "/chapter_66.md" >}}) | 相同 | ⏳ |
-| **Ch.75** Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions | [CH67]({{< relref "/chapter_67.md" >}}) | 相同 | ⏳ |
-| **Ch.76** Pediatric Neuromuscular Disorders | [CH68]({{< relref "/chapter_68.md" >}}) | 相同 | ⏳ |
-| **Ch.77** Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma | [CH69]({{< relref "/chapter_69.md" >}}) | 相同 | ⏳ |
-
-[↑ 回到進度總覽](#overview)
-
-<a id="section-12"></a>
-
-## Section 12：腫瘤與病理（Oncology and Pathology）
-
-Ch.78–83｜完成 1 / 6
-
-| OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
-|---|---|---|---|
-| **Ch.78** Evaluation and Management of Musculoskeletal Tumors | [CH70]({{< relref "/chapter_70.md" >}}) | 相同 | ⏳ |
-| **Ch.79** Benign Bone Tumors and Tumorlike Conditions of Bone | [CH71]({{< relref "/chapter_71.md" >}}) | 相同 | ⏳ |
-| **Ch.80** Sarcomas of Bone | [CH72]({{< relref "/chapter_72.md" >}}) | 相同 | ⏳ |
-| **Ch.81** Metastatic Tumors of Bone | [CH73]({{< relref "/chapter_73.md" >}}) | 相同 | ⏳ |
-| **Ch.82** Benign Soft-Tissue Tumors and Masses | [CH74]({{< relref "/chapter_74.md" >}}) | 相同 | ⏳ |
-| [**Ch.83**]({{< relref "/oku15/chapter_83.md" >}}) Soft-Tissue Sarcomas | [CH75]({{< relref "/chapter_75.md" >}}) | 相同 | ✅ |
-
-[↑ 回到進度總覽](#overview)
+**Orthopaedic Knowledge Update 15 (OKU 15)** 與 OKU 14 的逐章差異筆記，共 83 章。
+每章整理考點變更總表（🆕 新增、🔄 改變、✅ 一致、❌ 不再涵蓋）、逐節考點、OKU 14 被刪除但仍可能考的內容、Key Study Points 與 Anki 候選題；全新章節改寫為 high-yield 摘要。
+
+## OKU 14 → OKU 15 章節架構對照
+
+OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、合併、新增與頁數變化）見 [OKU 14 → OKU 15 章節對照](../oku14-oku15-comparison/)；OKU 14 原筆記見 [OKU 14 章節導覽](../)。
+
+## 章節導覽
+
+已完成 **31 / 83** 章；⏳ 表示整理中。
+
+| 章 | 主題 |
+| :-- | :-- |
+| [Ch.1](chapter_01/) | 骨科研究（Orthopaedic Research） |
+| [Ch.2](chapter_02/) | 生物統計學（Biostatistics） |
+| [Ch.3](chapter_03/) | 骨科病人安全：核心能力與溝通技巧（Orthopaedic Patient Safety: Core Competencies and Communication Skills） |
+| [Ch.4](chapter_04/) | 骨科產品的法規管制（Regulation of Orthopaedic Products） |
+| [Ch.5](chapter_05/) | 醫療政策（Healthcare Policy） |
+| [Ch.6](chapter_06/) | 凝血功能與血液管理（Coagulation and Blood Management） |
+| [Ch.7](chapter_07/) | 肌肉骨骼生物力學與生物材料（Musculoskeletal Biomechanics and Biomaterials） |
+| [Ch.8](chapter_08/) | 肌肉骨骼影像學原則（Musculoskeletal Imaging Principles） |
+| [Ch.9](chapter_09/) | 圍術期病人最佳化（Perioperative Patient Optimization） |
+| [Ch.10](chapter_10/) | 骨科手術新技術：機器人、導航、擴增實境與虛擬實境（New Technology in Orthopaedic Surgery: Robotics, Navigation, Augmented Reality, and Virtual Reality） |
+| [Ch.11](chapter_11/) | 骨科手術新技術：人工智慧與機器學習（New Technology in Orthopaedic Surgery: Artificial Intelligence and Machine Learning） |
+| [Ch.12](chapter_12/) | 骨科手術的遠距病人監測（Remote Patient Monitoring in Orthopaedic Surgery） |
+| [Ch.13](chapter_13/) | 正常骨與病變骨的結構與生物學（Structure and Biology of Normal and Diseased Bone） |
+| [Ch.14](chapter_14/) | 生物材料與植入物：骨科再生工程策略（Biomaterials and Implants: Regenerative Engineering Approaches for Orthopaedics） |
+| [Ch.15](chapter_15/) | 肌肉骨骼力學與動作學（Musculoskeletal Mechanics and Kinesiology） |
+| [Ch.16](chapter_16/) | 正常與異常骨折癒合（Normal and Abnormal Fracture Healing） |
+| [Ch.17](chapter_17/) | 關節軟骨生物學、骨關節炎、生物製劑與幹細胞治療（Articular Cartilage Biology, Osteoarthritis, Biologics, and Stem Cell Therapy） |
+| [Ch.18](chapter_18/) | 肌肉與神經疾病（Muscle and Nerve Disorders） |
+| [Ch.19](chapter_19/) | 骨科感染與微生物學（Orthopaedic Infections and Microbiology） |
+| [Ch.20](chapter_20/) | 3D 列印在骨科手術的應用（Application of Three-Dimensional Printing to Orthopaedic Surgery） |
+| [Ch.21](chapter_21/) | 骨關節炎的發炎與免疫學（Inflammation and Immunology in Osteoarthritis） |
+| [Ch.22](chapter_22/) | 多發創傷照護（Polytrauma Care） |
+| [Ch.23](chapter_23/) | 開放性骨折的處置（Management of Open Fractures） |
+| [Ch.24](chapter_24/) | 上肢創傷（Upper Extremity Trauma） |
+| [Ch.25](chapter_25/) | 下肢創傷（Lower Extremity Trauma） |
+| [Ch.26](chapter_26/) | 骨盆創傷（Pelvic Trauma） |
+| [Ch.27](chapter_27/) | 肩部解剖與生物力學、臨床評估與影像（Shoulder Anatomy and Biomechanics, Clinical Evaluation, and Imaging） |
+| [Ch.28](chapter_28/) | 旋轉肌袖疾病、鈣化性肌腱炎與沾黏性肩囊炎（Rotator Cuff Disease, Calcific Tendinitis, and Adhesive Capsulitis） |
+| [Ch.29](chapter_29/) | 投擲運動員的肩部傷害與盂肱關節不穩定（Shoulder Injuries in the Throwing Athlete and Glenohumeral Instability） |
+| [Ch.30](chapter_30/) | 肩關節炎與人工肩關節置換（Shoulder Arthritis and Arthroplasty） |
+| Ch.31 ⏳ | 肘部解剖、生物力學、理學檢查與影像（Anatomy, Biomechanics, Physical Examination, and Imaging of the Elbow） |
+| Ch.32 ⏳ | 肘部退化性疾病與神經病變（Elbow Degenerative Conditions and Nerve Disorders） |
+| Ch.33 ⏳ | 肘部肌腱病、投擲傷害與韌帶重建（Elbow Tendinopathy, Throwing Injuries, and Ligament Reconstruction） |
+| Ch.34 ⏳ | 肘關節鏡與軟骨病灶（Elbow Arthroscopy and Chondral Lesions） |
+| Ch.35 ⏳ | 手與腕的解剖、臨床檢查與影像（Anatomy, Clinical Examination, and Imaging of the Hand and Wrist） |
+| Ch.36 ⏳ | 手與腕的骨與軟組織感染及血管疾病（Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist） |
+| Ch.37 ⏳ | 手與腕關節炎（Hand and Wrist Arthritis） |
+| Ch.38 ⏳ | 手與腕的神經疾病（Nerve Conditions of the Hand and Wrist） |
+| Ch.39 ⏳ | 手與腕的韌帶損傷（Ligament Injuries of the Hand and Wrist） |
+| Ch.40 ⏳ | 手與腕的肌腱損傷與肌腱病（Tendon Injuries and Tendinopathies of the Hand and Wrist） |
+| Ch.41 ⏳ | 手與腕損傷、骨折與重建：固定觀念的轉變（Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms） |
+| Ch.42 ⏳ | 顯微外科與再植（Microsurgery and Replantation） |
+| Ch.43 ⏳ | 髖關節解剖與生物力學、評估、理學檢查與影像（Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip） |
+| Ch.44 ⏳ | 髖關節保留（Hip Preservation） |
+| Ch.45 ⏳ | 髖關節肌肉、神經血管與軟組織疾病（Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip） |
+| Ch.46 ⏳ | 髖關節終末期退化與髖關節重建（End-Stage Hip Degeneration and Hip Reconstruction） |
+| Ch.47 ⏳ | 膝關節韌帶損傷（Ligament Injuries of the Knee） |
+| Ch.48 ⏳ | 膝關節軟骨缺損與軟骨修復（Knee Articular Cartilage Defects and Cartilage Restoration） |
+| Ch.49 ⏳ | 半月板病變、修復與移植（Meniscal Pathology, Repair, and Transplant） |
+| Ch.50 ⏳ | 膝關節炎與重建（Knee Arthritis and Reconstruction） |
+| Ch.51 ⏳ | 髕股關節不穩定（Patellofemoral Instability） |
+| Ch.52 ⏳ | 膝關節排列異常與截骨術（Malalignment and Osteotomies of the Knee） |
+| Ch.53 ⏳ | 足踝解剖與生物力學（Foot and Ankle Anatomy and Biomechanics） |
+| Ch.54 ⏳ | 足踝退化性疾病與骨壞死（Degenerative Conditions and Osteonecrosis of the Foot and Ankle） |
+| Ch.55 ⏳ | 糖尿病足（The Diabetic Foot） |
+| Ch.56 ⏳ | 足踝重建（Foot and Ankle Reconstruction） |
+| Ch.57 ⏳ | 脊椎解剖（Spine Anatomy） |
+| Ch.58 ⏳ | 脊椎評估、理學檢查與影像（Spinal Evaluation, Clinical Examination, and Imaging） |
+| Ch.59 ⏳ | 頸椎退化性疾病（Cervical Degenerative Diseases） |
+| Ch.60 ⏳ | 胸腰椎退化性疾病（Thoracolumbar Degenerative Disease） |
+| Ch.61 ⏳ | 胸腰椎微創手術技術（Thoracolumbar Minimally Invasive Surgical Techniques） |
+| Ch.62 ⏳ | 脊椎感染（Spinal Column Infections） |
+| Ch.63 ⏳ | 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新觀念（Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine） |
+| Ch.64 ⏳ | 脊椎創傷（Spine Trauma） |
+| Ch.65 ⏳ | 成人脊椎畸形（Adult Spinal Deformity） |
+| Ch.66 ⏳ | 小兒肩部、上臂與肘部創傷（Pediatric Shoulder, Upper Arm, and Elbow Trauma） |
+| Ch.67 ⏳ | 小兒前臂、腕部與手部創傷（Pediatric Forearm, Wrist, and Hand Trauma） |
+| Ch.68 ⏳ | 上肢先天性疾病（Congenital Disorders of the Upper Limb） |
+| Ch.69 ⏳ | 小兒骨盆、髖部與股骨創傷（Pediatric Pelvis, Hip, and Femur Trauma） |
+| Ch.70 ⏳ | 小兒膝、小腿、踝與足部骨折（Pediatric Knee, Leg, Ankle, and Foot Fractures） |
+| Ch.71 ⏳ | 小兒髖部疾病（Pediatric Hip Disorders） |
+| Ch.72 ⏳ | 小兒下肢與足部疾病（Pediatric Lower Extremity and Foot Disorders） |
+| Ch.73 ⏳ | 小兒運動傷害（Pediatric Athletic Injuries） |
+| Ch.74 ⏳ | 小兒脊椎疾病與創傷（Pediatric Spine Disorders and Trauma） |
+| Ch.75 ⏳ | 骨骼發育不良、結締組織疾病及其他遺傳性疾病（Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions） |
+| Ch.76 ⏳ | 小兒神經肌肉疾病（Pediatric Neuromuscular Disorders） |
+| Ch.77 ⏳ | 小兒肌肉骨骼感染、發炎疾病與非意外性創傷（Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma） |
+| Ch.78 ⏳ | 肌肉骨骼腫瘤的評估與處置（Evaluation and Management of Musculoskeletal Tumors） |
+| Ch.79 ⏳ | 良性骨腫瘤與類腫瘤病變（Benign Bone Tumors and Tumorlike Conditions of Bone） |
+| Ch.80 ⏳ | 骨骼肉瘤（Sarcomas of Bone） |
+| Ch.81 ⏳ | 骨轉移性腫瘤（Metastatic Tumors of Bone） |
+| Ch.82 ⏳ | 良性軟組織腫瘤與腫塊（Benign Soft-Tissue Tumors and Masses） |
+| [Ch.83](chapter_83/) | 軟組織肉瘤（Soft-Tissue Sarcomas） |
