@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **35 / 83** 章；⏳ 表示整理中。
+已完成 **39 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -52,10 +52,10 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.32](chapter_32/) | 肘部退化性疾病與神經病變（Elbow Degenerative Conditions and Nerve Disorders） |
 | [Ch.33](chapter_33/) | 肘部肌腱病、投擲傷害與韌帶重建（Elbow Tendinopathy, Throwing Injuries, and Ligament Reconstruction） |
 | [Ch.34](chapter_34/) | 肘關節鏡與軟骨病灶（Elbow Arthroscopy and Chondral Lesions） |
-| Ch.35 ⏳ | 手與腕的解剖、臨床檢查與影像（Anatomy, Clinical Examination, and Imaging of the Hand and Wrist） |
-| Ch.36 ⏳ | 手與腕的骨與軟組織感染及血管疾病（Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist） |
-| Ch.37 ⏳ | 手與腕關節炎（Hand and Wrist Arthritis） |
-| Ch.38 ⏳ | 手與腕的神經疾病（Nerve Conditions of the Hand and Wrist） |
+| [Ch.35](chapter_35/) | 手與腕的解剖、臨床檢查與影像（Anatomy, Clinical Examination, and Imaging of the Hand and Wrist） |
+| [Ch.36](chapter_36/) | 手與腕的骨與軟組織感染及血管疾病（Bone and Soft-Tissue Infections and Vascular Conditions of the Hand and Wrist） |
+| [Ch.37](chapter_37/) | 手與腕關節炎（Hand and Wrist Arthritis） |
+| [Ch.38](chapter_38/) | 手與腕的神經疾病（Nerve Conditions of the Hand and Wrist） |
 | Ch.39 ⏳ | 手與腕的韌帶損傷（Ligament Injuries of the Hand and Wrist） |
 | Ch.40 ⏳ | 手與腕的肌腱損傷與肌腱病（Tendon Injuries and Tendinopathies of the Hand and Wrist） |
 | Ch.41 ⏳ | 手與腕損傷、骨折與重建：固定觀念的轉變（Hand and Wrist Injuries, Fractures, and Reconstruction—Changing Fixation Paradigms） |
