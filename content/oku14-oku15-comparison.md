@@ -91,9 +91,9 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.27** *Shoulder Anatomy and Biomechanics, Clinical Evaluation, and Imaging* | [CH27]({{< relref "/chapter_27.md" >}}) 肩部解剖、生物力學、臨床評估與影像<br><small>*Shoulder Anatomy, Biomechanics, Clinical Evaluation, and Imaging*</small> | 相同 | 12 → 10（-2，-17%） |
-| **Ch.28** *Rotator Cuff Disease, Calcific Tendinitis, and Adhesive Capsulitis* | [CH28]({{< relref "/chapter_28.md" >}}) 旋轉肌袖疾病、鈣化性肌腱炎、沾黏性肩囊炎、投擲肩與肩關節不穩定<br><small>*Rotator Cuff Disease, Calcific Tendinitis, Adhesive Capsulitis, Throwing Shoulder, and Instability*</small> | 拆分 | 16（原章 16 頁拆出） |
-| **Ch.29** *Shoulder Injuries in the Throwing Athlete and Glenohumeral Instability* | [CH28]({{< relref "/chapter_28.md" >}}) 旋轉肌袖疾病、鈣化性肌腱炎、沾黏性肩囊炎、投擲肩與肩關節不穩定<br><small>*Rotator Cuff Disease, Calcific Tendinitis, Adhesive Capsulitis, Throwing Shoulder, and Instability*</small> | 拆分 | 14（原章 16 頁拆出） |
+| [**Ch.27**]({{< relref "/oku15/chapter_27.md" >}}) *Shoulder Anatomy and Biomechanics, Clinical Evaluation, and Imaging* | [CH27]({{< relref "/chapter_27.md" >}}) 肩部解剖、生物力學、臨床評估與影像<br><small>*Shoulder Anatomy, Biomechanics, Clinical Evaluation, and Imaging*</small> | 相同 | 12 → 10（-2，-17%） |
+| [**Ch.28**]({{< relref "/oku15/chapter_28.md" >}}) *Rotator Cuff Disease, Calcific Tendinitis, and Adhesive Capsulitis* | [CH28]({{< relref "/chapter_28.md" >}}) 旋轉肌袖疾病、鈣化性肌腱炎、沾黏性肩囊炎、投擲肩與肩關節不穩定<br><small>*Rotator Cuff Disease, Calcific Tendinitis, Adhesive Capsulitis, Throwing Shoulder, and Instability*</small> | 拆分 | 16（原章 16 頁拆出） |
+| [**Ch.29**]({{< relref "/oku15/chapter_29.md" >}}) *Shoulder Injuries in the Throwing Athlete and Glenohumeral Instability* | [CH28]({{< relref "/chapter_28.md" >}}) 旋轉肌袖疾病、鈣化性肌腱炎、沾黏性肩囊炎、投擲肩與肩關節不穩定<br><small>*Rotator Cuff Disease, Calcific Tendinitis, Adhesive Capsulitis, Throwing Shoulder, and Instability*</small> | 拆分 | 14（原章 16 頁拆出） |
 | [**Ch.30**]({{< relref "/oku15/chapter_30.md" >}}) *Shoulder Arthritis and Arthroplasty* | [CH29]({{< relref "/chapter_29.md" >}}) 肩部關節炎與人工關節置換 | 相同 | 12 → 24（+12，+100%） ⬆ |
 
 ### Section 5：Elbow
