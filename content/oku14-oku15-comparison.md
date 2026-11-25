@@ -81,11 +81,11 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.22** *Polytrauma Care* | [CH21]({{< relref "/chapter_21.md" >}}) 多發創傷照護 | 相同 | 12 → 14（+2，+17%） |
-| **Ch.23** *Management of Open Fractures* | [CH22]({{< relref "/chapter_22.md" >}}) 開放性骨折的處置 | 相同 | 10 → 10（+0，+0%） |
-| **Ch.24** *Upper Extremity Trauma* | [CH23]({{< relref "/chapter_23.md" >}}) 上肢創傷 | 相同 | 12 → 16（+4，+33%） |
-| **Ch.25** *Lower Extremity Trauma* | [CH24]({{< relref "/chapter_24.md" >}}) 下肢創傷 | 相同 | 18 → 16（-2，-11%） |
-| **Ch.26** *Pelvic Trauma* | [CH25]({{< relref "/chapter_25.md" >}}) 骨盆創傷 | 相同 | 12 → 20（+8，+67%） ⬆ |
+| [**Ch.22**]({{< relref "/oku15/chapter_22.md" >}}) *Polytrauma Care* | [CH21]({{< relref "/chapter_21.md" >}}) 多發創傷照護 | 相同 | 12 → 14（+2，+17%） |
+| [**Ch.23**]({{< relref "/oku15/chapter_23.md" >}}) *Management of Open Fractures* | [CH22]({{< relref "/chapter_22.md" >}}) 開放性骨折的處置 | 相同 | 10 → 10（+0，+0%） |
+| [**Ch.24**]({{< relref "/oku15/chapter_24.md" >}}) *Upper Extremity Trauma* | [CH23]({{< relref "/chapter_23.md" >}}) 上肢創傷 | 相同 | 12 → 16（+4，+33%） |
+| [**Ch.25**]({{< relref "/oku15/chapter_25.md" >}}) *Lower Extremity Trauma* | [CH24]({{< relref "/chapter_24.md" >}}) 下肢創傷 | 相同 | 18 → 16（-2，-11%） |
+| [**Ch.26**]({{< relref "/oku15/chapter_26.md" >}}) *Pelvic Trauma* | [CH25]({{< relref "/chapter_25.md" >}}) 骨盆創傷 | 相同 | 12 → 20（+8，+67%） ⬆ |
 
 ### Section 4：Shoulder
 

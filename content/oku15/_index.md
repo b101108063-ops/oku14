@@ -7,7 +7,7 @@ draft: false
 
 每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
 
-**進度：23 / 83 章**
+**進度：28 / 83 章**
 
 | OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
 |---|---|---|---|
@@ -32,11 +32,11 @@ draft: false
 | [**Ch.19**]({{< relref "/oku15/chapter_19.md" >}}) Orthopaedic Infections and Microbiology | [CH18]({{< relref "/chapter_18.md" >}}) | 相同 | ✅ |
 | [**Ch.20**]({{< relref "/oku15/chapter_20.md" >}}) Application of Three-Dimensional Printing to Orthopaedic Surgery | [CH19]({{< relref "/chapter_19.md" >}}) | 改名／範圍調整 | ✅ |
 | [**Ch.21**]({{< relref "/oku15/chapter_21.md" >}}) Inflammation and Immunology in Osteoarthritis | [CH20]({{< relref "/chapter_20.md" >}}) | 改名／範圍調整 | ✅ |
-| **Ch.22** Polytrauma Care | [CH21]({{< relref "/chapter_21.md" >}}) | 相同 | ⏳ |
-| **Ch.23** Management of Open Fractures | [CH22]({{< relref "/chapter_22.md" >}}) | 相同 | ⏳ |
-| **Ch.24** Upper Extremity Trauma | [CH23]({{< relref "/chapter_23.md" >}}) | 相同 | ⏳ |
-| **Ch.25** Lower Extremity Trauma | [CH24]({{< relref "/chapter_24.md" >}}) | 相同 | ⏳ |
-| **Ch.26** Pelvic Trauma | [CH25]({{< relref "/chapter_25.md" >}}) | 相同 | ⏳ |
+| [**Ch.22**]({{< relref "/oku15/chapter_22.md" >}}) Polytrauma Care | [CH21]({{< relref "/chapter_21.md" >}}) | 相同 | ✅ |
+| [**Ch.23**]({{< relref "/oku15/chapter_23.md" >}}) Management of Open Fractures | [CH22]({{< relref "/chapter_22.md" >}}) | 相同 | ✅ |
+| [**Ch.24**]({{< relref "/oku15/chapter_24.md" >}}) Upper Extremity Trauma | [CH23]({{< relref "/chapter_23.md" >}}) | 相同 | ✅ |
+| [**Ch.25**]({{< relref "/oku15/chapter_25.md" >}}) Lower Extremity Trauma | [CH24]({{< relref "/chapter_24.md" >}}) | 相同 | ✅ |
+| [**Ch.26**]({{< relref "/oku15/chapter_26.md" >}}) Pelvic Trauma | [CH25]({{< relref "/chapter_25.md" >}}) | 相同 | ✅ |
 | **Ch.27** Shoulder Anatomy and Biomechanics, Clinical Evaluation, and Imaging | [CH27]({{< relref "/chapter_27.md" >}}) | 相同 | ⏳ |
 | **Ch.28** Rotator Cuff Disease, Calcific Tendinitis, and Adhesive Capsulitis | [CH28]({{< relref "/chapter_28.md" >}}) | 拆分 | ⏳ |
 | **Ch.29** Shoulder Injuries in the Throwing Athlete and Glenohumeral Instability | [CH28]({{< relref "/chapter_28.md" >}}) | 拆分 | ⏳ |
