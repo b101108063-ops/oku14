@@ -7,7 +7,7 @@ draft: false
 
 每章整理 **OKU 15 相對於 OKU 14 的差異**，以考點為導向：新增的 classification／guideline、改變的治療建議、更新的數據與 cut-off，以及「舊版記法已過時」的地方。全新章節則改寫為 high-yield 摘要。完整章節對照見 [OKU 14 → OKU 15 章節對照]({{< relref "/oku14-oku15-comparison.md" >}})。
 
-**進度：10 / 83 章**
+**進度：11 / 83 章**
 
 | OKU 15 | 對應 OKU 14 | 類型 | 狀態 |
 |---|---|---|---|
@@ -15,7 +15,7 @@ draft: false
 | [**Ch.2**]({{< relref "/oku15/chapter_02.md" >}}) Biostatistics | [CH2]({{< relref "/chapter_02.md" >}}) | 相同 | ✅ |
 | [**Ch.3**]({{< relref "/oku15/chapter_03.md" >}}) Orthopaedic Patient Safety: Core Competencies and Communication Skills | [CH3]({{< relref "/chapter_03.md" >}}) | 相同 | ✅ |
 | [**Ch.4**]({{< relref "/oku15/chapter_04.md" >}}) Regulation of Orthopaedic Products | [CH4]({{< relref "/chapter_04.md" >}}) | 相同 | ✅ |
-| **Ch.5** Healthcare Policy | [CH5]({{< relref "/chapter_05.md" >}}) | 相同 | ⏳ |
+| [**Ch.5**]({{< relref "/oku15/chapter_05.md" >}}) Healthcare Policy | [CH5]({{< relref "/chapter_05.md" >}}) | 相同 | ✅ |
 | **Ch.6** Coagulation and Blood Management | [CH7]({{< relref "/chapter_07.md" >}}) | 相同 | ⏳ |
 | **Ch.7** Musculoskeletal Biomechanics and Biomaterials | [CH8]({{< relref "/chapter_08.md" >}}) | 相同 | ⏳ |
 | **Ch.8** Musculoskeletal Imaging Principles | [CH9]({{< relref "/chapter_09.md" >}}) | 相同 | ⏳ |
