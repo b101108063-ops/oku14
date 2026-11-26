@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **74 / 83** 章；⏳ 表示整理中。
+已完成 **75 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -91,7 +91,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.71](chapter_71/) | 小兒髖部疾病（Pediatric Hip Disorders） |
 | [Ch.72](chapter_72/) | 小兒下肢與足部疾病（Pediatric Lower Extremity and Foot Disorders） |
 | [Ch.73](chapter_73/) | 小兒運動傷害（Pediatric Athletic Injuries） |
-| Ch.74 ⏳ | 小兒脊椎疾病與創傷（Pediatric Spine Disorders and Trauma） |
+| [Ch.74](chapter_74/) | 小兒脊椎疾病與創傷（Pediatric Spine Disorders and Trauma） |
 | Ch.75 ⏳ | 骨骼發育不良、結締組織疾病及其他遺傳性疾病（Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions） |
 | Ch.76 ⏳ | 小兒神經肌肉疾病（Pediatric Neuromuscular Disorders） |
 | Ch.77 ⏳ | 小兒肌肉骨骼感染、發炎疾病與非意外性創傷（Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma） |

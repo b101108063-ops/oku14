@@ -173,7 +173,7 @@ weight: 0
 | [**Ch.71**]({{< relref "/oku15/chapter_71.md" >}}) *Pediatric Hip Disorders* | [CH63]({{< relref "/chapter_63.md" >}}) 小兒髖部疾病 | 相同 | 22 → 20（-2，-9%） |
 | [**Ch.72**]({{< relref "/oku15/chapter_72.md" >}}) *Pediatric Lower Extremity and Foot Disorders* | [CH64]({{< relref "/chapter_64.md" >}}) 小兒下肢與足部疾病 | 相同 | 14 → 20（+6，+43%） ⬆ |
 | [**Ch.73**]({{< relref "/oku15/chapter_73.md" >}}) *Pediatric Athletic Injuries* | [CH65]({{< relref "/chapter_65.md" >}}) 小兒運動傷害 | 相同 | 14 → 18（+4，+29%） |
-| **Ch.74** *Pediatric Spine Disorders and Trauma* | [CH66]({{< relref "/chapter_66.md" >}}) 小兒脊椎疾病與創傷 | 相同 | 20 → 14（-6，-30%） |
+| [**Ch.74**]({{< relref "/oku15/chapter_74.md" >}}) *Pediatric Spine Disorders and Trauma* | [CH66]({{< relref "/chapter_66.md" >}}) 小兒脊椎疾病與創傷 | 相同 | 20 → 14（-6，-30%） |
 | **Ch.75** *Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions* | [CH67]({{< relref "/chapter_67.md" >}}) 小兒骨骼發育不良、結締組織疾病及其他遺傳性疾病<br><small>*Pediatric Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions*</small> | 相同 | 22 → 18（-4，-18%） |
 | **Ch.76** *Pediatric Neuromuscular Disorders* | [CH68]({{< relref "/chapter_68.md" >}}) 小兒神經肌肉疾病 | 相同 | 12 → 12（+0，+0%） |
 | **Ch.77** *Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma* | [CH69]({{< relref "/chapter_69.md" >}}) 小兒肌肉骨骼感染、發炎疾病與非意外性創傷 | 相同 | 16 → 18（+2，+12%） |
