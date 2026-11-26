@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **64 / 83** 章；⏳ 表示整理中。
+已完成 **66 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -81,8 +81,8 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.61](chapter_61/) | 胸腰椎微創手術技術（Thoracolumbar Minimally Invasive Surgical Techniques） |
 | [Ch.62](chapter_62/) | 脊椎感染（Spinal Column Infections） |
 | [Ch.63](chapter_63/) | 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新觀念（Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine） |
-| Ch.64 ⏳ | 脊椎創傷（Spine Trauma） |
-| Ch.65 ⏳ | 成人脊椎畸形（Adult Spinal Deformity） |
+| [Ch.64](chapter_64/) | 脊椎創傷（Spine Trauma） |
+| [Ch.65](chapter_65/) | 成人脊椎畸形（Adult Spinal Deformity） |
 | Ch.66 ⏳ | 小兒肩部、上臂與肘部創傷（Pediatric Shoulder, Upper Arm, and Elbow Trauma） |
 | Ch.67 ⏳ | 小兒前臂、腕部與手部創傷（Pediatric Forearm, Wrist, and Hand Trauma） |
 | Ch.68 ⏳ | 上肢先天性疾病（Congenital Disorders of the Upper Limb） |
