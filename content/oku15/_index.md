@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **57 / 83** 章；⏳ 表示整理中。
+已完成 **59 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -74,8 +74,8 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.54](chapter_54/) | 足踝退化性疾病與骨壞死（Degenerative Conditions and Osteonecrosis of the Foot and Ankle） |
 | [Ch.55](chapter_55/) | 糖尿病足（The Diabetic Foot） |
 | [Ch.56](chapter_56/) | 足踝重建（Foot and Ankle Reconstruction） |
-| Ch.57 ⏳ | 脊椎解剖（Spine Anatomy） |
-| Ch.58 ⏳ | 脊椎評估、理學檢查與影像（Spinal Evaluation, Clinical Examination, and Imaging） |
+| [Ch.57](chapter_57/) | 脊椎解剖（Spine Anatomy） |
+| [Ch.58](chapter_58/) | 脊椎評估、理學檢查與影像（Spinal Evaluation, Clinical Examination, and Imaging） |
 | Ch.59 ⏳ | 頸椎退化性疾病（Cervical Degenerative Diseases） |
 | Ch.60 ⏳ | 胸腰椎退化性疾病（Thoracolumbar Degenerative Disease） |
 | Ch.61 ⏳ | 胸腰椎微創手術技術（Thoracolumbar Minimally Invasive Surgical Techniques） |

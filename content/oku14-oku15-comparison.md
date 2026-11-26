@@ -151,8 +151,8 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.57** *Spine Anatomy* | [CH51]({{< relref "/chapter_51.md" >}}) 脊椎解剖 | 相同 | 18 → 18（+0，+0%） |
-| **Ch.58** *Spinal Evaluation, Clinical Examination, and Imaging* | [CH52]({{< relref "/chapter_52.md" >}}) 脊椎評估、理學檢查與影像<br><small>*Spine Evaluation, Clinical Examination, and Imaging*</small> | 相同 | 10 → 8（-2，-20%） |
+| [**Ch.57**]({{< relref "/oku15/chapter_57.md" >}}) *Spine Anatomy* | [CH51]({{< relref "/chapter_51.md" >}}) 脊椎解剖 | 相同 | 18 → 18（+0，+0%） |
+| [**Ch.58**]({{< relref "/oku15/chapter_58.md" >}}) *Spinal Evaluation, Clinical Examination, and Imaging* | [CH52]({{< relref "/chapter_52.md" >}}) 脊椎評估、理學檢查與影像<br><small>*Spine Evaluation, Clinical Examination, and Imaging*</small> | 相同 | 10 → 8（-2，-20%） |
 | **Ch.59** *Cervical Degenerative Diseases* | [CH53]({{< relref "/chapter_53.md" >}}) 頸椎退行性疾病<br><small>*Cervical Degenerative Conditions*</small> | 相同 | 10 → 16（+6，+60%） ⬆ |
 | **Ch.60** *Thoracolumbar Degenerative Disease* | [CH54]({{< relref "/chapter_54.md" >}}) 胸腰椎疾病<br><small>*Thoracolumbar Conditions*</small> | 改名／範圍調整 | 16 → 10（-6，-38%） |
 | **Ch.61** *Thoracolumbar Minimally Invasive Surgical Techniques* | [CH55]({{< relref "/chapter_55.md" >}}) 胸腰椎微創手術技術 | 相同 | 10 → 8（-2，-20%） |
