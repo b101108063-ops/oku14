@@ -142,10 +142,10 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.53** *Foot and Ankle Anatomy and Biomechanics* | [CH47]({{< relref "/chapter_47.md" >}}) 足踝解剖與生物力學 | 相同 | 12 → 12（+0，+0%） |
-| **Ch.54** *Degenerative Conditions and Osteonecrosis of the Foot and Ankle* | [CH48]({{< relref "/chapter_48.md" >}}) 足踝退行性病變與骨壞死 | 相同 | 12 → 10（-2，-17%） |
-| **Ch.55** *The Diabetic Foot* | [CH49]({{< relref "/chapter_49.md" >}}) 糖尿病足 | 相同 | 12 → 8（-4，-33%） |
-| **Ch.56** *Foot and Ankle Reconstruction* | [CH50]({{< relref "/chapter_50.md" >}}) 足踝重建 | 相同 | 16 → 20（+4，+25%） |
+| [**Ch.53**]({{< relref "/oku15/chapter_53.md" >}}) *Foot and Ankle Anatomy and Biomechanics* | [CH47]({{< relref "/chapter_47.md" >}}) 足踝解剖與生物力學 | 相同 | 12 → 12（+0，+0%） |
+| [**Ch.54**]({{< relref "/oku15/chapter_54.md" >}}) *Degenerative Conditions and Osteonecrosis of the Foot and Ankle* | [CH48]({{< relref "/chapter_48.md" >}}) 足踝退行性病變與骨壞死 | 相同 | 12 → 10（-2，-17%） |
+| [**Ch.55**]({{< relref "/oku15/chapter_55.md" >}}) *The Diabetic Foot* | [CH49]({{< relref "/chapter_49.md" >}}) 糖尿病足 | 相同 | 12 → 8（-4，-33%） |
+| [**Ch.56**]({{< relref "/oku15/chapter_56.md" >}}) *Foot and Ankle Reconstruction* | [CH50]({{< relref "/chapter_50.md" >}}) 足踝重建 | 相同 | 16 → 20（+4，+25%） |
 
 ### Section 10：Spine
 

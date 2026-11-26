@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **53 / 83** 章；⏳ 表示整理中。
+已完成 **57 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -70,10 +70,10 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.50](chapter_50/) | 膝關節炎與重建（Knee Arthritis and Reconstruction） |
 | [Ch.51](chapter_51/) | 髕股關節不穩定（Patellofemoral Instability） |
 | [Ch.52](chapter_52/) | 膝關節排列異常與截骨術（Malalignment and Osteotomies of the Knee） |
-| Ch.53 ⏳ | 足踝解剖與生物力學（Foot and Ankle Anatomy and Biomechanics） |
-| Ch.54 ⏳ | 足踝退化性疾病與骨壞死（Degenerative Conditions and Osteonecrosis of the Foot and Ankle） |
-| Ch.55 ⏳ | 糖尿病足（The Diabetic Foot） |
-| Ch.56 ⏳ | 足踝重建（Foot and Ankle Reconstruction） |
+| [Ch.53](chapter_53/) | 足踝解剖與生物力學（Foot and Ankle Anatomy and Biomechanics） |
+| [Ch.54](chapter_54/) | 足踝退化性疾病與骨壞死（Degenerative Conditions and Osteonecrosis of the Foot and Ankle） |
+| [Ch.55](chapter_55/) | 糖尿病足（The Diabetic Foot） |
+| [Ch.56](chapter_56/) | 足踝重建（Foot and Ankle Reconstruction） |
 | Ch.57 ⏳ | 脊椎解剖（Spine Anatomy） |
 | Ch.58 ⏳ | 脊椎評估、理學檢查與影像（Spinal Evaluation, Clinical Examination, and Imaging） |
 | Ch.59 ⏳ | 頸椎退化性疾病（Cervical Degenerative Diseases） |
