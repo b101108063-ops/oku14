@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **59 / 83** 章；⏳ 表示整理中。
+已完成 **62 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -76,9 +76,9 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.56](chapter_56/) | 足踝重建（Foot and Ankle Reconstruction） |
 | [Ch.57](chapter_57/) | 脊椎解剖（Spine Anatomy） |
 | [Ch.58](chapter_58/) | 脊椎評估、理學檢查與影像（Spinal Evaluation, Clinical Examination, and Imaging） |
-| Ch.59 ⏳ | 頸椎退化性疾病（Cervical Degenerative Diseases） |
-| Ch.60 ⏳ | 胸腰椎退化性疾病（Thoracolumbar Degenerative Disease） |
-| Ch.61 ⏳ | 胸腰椎微創手術技術（Thoracolumbar Minimally Invasive Surgical Techniques） |
+| [Ch.59](chapter_59/) | 頸椎退化性疾病（Cervical Degenerative Diseases） |
+| [Ch.60](chapter_60/) | 胸腰椎退化性疾病（Thoracolumbar Degenerative Disease） |
+| [Ch.61](chapter_61/) | 胸腰椎微創手術技術（Thoracolumbar Minimally Invasive Surgical Techniques） |
 | Ch.62 ⏳ | 脊椎感染（Spinal Column Infections） |
 | Ch.63 ⏳ | 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新觀念（Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine） |
 | Ch.64 ⏳ | 脊椎創傷（Spine Trauma） |
