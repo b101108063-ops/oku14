@@ -8,8 +8,6 @@ weight: 68
 summary: "本章整合小兒腦性麻痺、脊髓脊膜膨出與杜氏肌失養症等神經肌肉疾病之 GMFCS 分級評估、張力治療、下肢與脊柱變形重建、SEMLS 策略及實證數據。"
 ---
 
-# Chapter 68: Pediatric Neuromuscular Disorders — 小兒神經肌肉疾病
-
 ## 章節導讀
 
 小兒神經肌肉疾病（<span style="color:#e2e8f0">Pediatric Neuromuscular Disorders</span>）涵蓋一組因中樞神經系統、脊髓前角細胞、周邊神經或肌肉蛋白基因缺陷所致之複雜病變，包括腦性麻痺（<span style="color:#e2e8f0">Cerebral Palsy, CP</span>）、脊髓脊膜膨出（<span style="color:#e2e8f0">Myelomeningocele</span>）、杜氏肌失養症（<span style="color:#e2e8f0">Duchenne Muscular Dystrophy, DMD</span>）、脊髓性肌肉萎縮症（<span style="color:#e2e8f0">Spinal Muscular Atrophy, SMA</span>）及弗里德賴希共濟失調（<span style="color:#e2e8f0">Friedreich Ataxia, FDRA</span>）等。這些疾病的骨科表徵包括脊柱側彎、髖關節移位、膝關節屈曲攣縮與足踝變形。骨科醫師之臨床決策必須奠基於<span style="color:#60a5fa;font-weight:600">疾病之自然史、粗大運動功能分級（GMFCS）、神經解剖階層與整體生活品質（HRQoL）</span>，並整合神經外科、泌尿科與復健團隊進行個案化治療。

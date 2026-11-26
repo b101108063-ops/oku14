@@ -8,8 +8,6 @@ weight: 1
 summary: "本章界定骨科研究從 bench-to-bedside 的轉譯路徑，說明 RCT、cohort、case-control、case series 與 expert opinion 的證據層級差異，並以 PICO、PRISMA、GRADE 與 AMSTAR 2 建立臨床實務指引（clinical practice guideline）的標準流程。"
 ---
 
-# Chapter 1: Orthopaedic Research — 骨科研究方法與實證層級
-
 ## 章節導讀
 
 骨科研究的價值取決於設計與證據強度能否回答真正的臨床問題。本章先建立從基礎研究到臨床應用的轉譯層次，再依 RCT、cohort、case-control 等設計說明證據強度差異，最後以 PICO、PRISMA、GRADE 與 AMSTAR 2 示範如何將文獻轉為臨床實務指引。
@@ -109,7 +107,7 @@ summary: "本章界定骨科研究從 bench-to-bedside 的轉譯路徑，說明 
 ### 3.2 Systematic Review 與 Meta-analysis 的執行步驟（Figure 1）
 
 1. **Formulate study question**（PICO）
-2. **Establish protocol** — 依 PRISMA-P（Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols）撰写研究計畫書
+2. **Establish protocol** — 依 PRISMA-P（Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols）撰寫研究計畫書
 3. **Register** — 於 PROSPERO（International Prospective Register of Systematic Reviews）登錄
 4. **Literature search and retrieval** — **至少兩個電子資料庫**（PubMed、Medline、Embase 或 Cochrane）＋ 手動搜尋參考文獻（hand searching article bibliographies）
 5. **Study selection per protocol** — 由**至少兩位審查者**依 inclusion/exclusion criteria 篩選
@@ -163,7 +161,7 @@ summary: "本章界定骨科研究從 bench-to-bedside 的轉譯路徑，說明 
 
 > **陷阱 3：錯用 fixed-effect 模型做外推**。Fixed-effect 僅可對納入研究本身推論；若要外推至更廣族群，應採 random-effects，並做 multiway sensitivity analyses。
 
-> **陷阱 4：將 systematic review 等同高质量**。必須以 AMSTAR 2 區分高低品質系統性回顧；未依 PRISMA/MOOSE 報告者，其 pooled estimate 需降級解讀。
+> **陷阱 4：將 systematic review 等同高質量**。必須以 AMSTAR 2 區分高低品質系統性回顧；未依 PRISMA/MOOSE 報告者，其 pooled estimate 需降級解讀。
 
 > **陷阱 5：open access 中的 predatory publishing**。2021 年 DOAJ 已收錄超過 16,000 本 open access 期刊；因成本由作者端支付（large article processing charges），易生掠奪性期刊。讀者須留意 publisher 與作者的 conflict 與 motivation。傳統訂閱期刊亦常設 open access partner journal：稿件遭退稿後可改投 partner 期刊並獲得自動評估。
 

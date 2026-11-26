@@ -8,8 +8,6 @@ weight: 46
 summary: "本章整理膝關節炎流行病學與異質性表現型，對比 AAOS、ACR 與 OARSI 保守治療指引，剖析抗發炎、抗衰老及 DMOADs 藥物與 PRP 實證；並彙整單髁與全膝置換、非骨水泥固定及機器人與智慧感測重建設施。"
 ---
 
-# Chapter 46: Knee Arthritis and Reconstruction — 膝關節炎與重建
-
 ## 章節導讀
 
 膝關節骨關節炎（<span style="color:#e2e8f0">Knee Osteoarthritis, KOA</span>）是全球最常見且造成個人與社會重大醫療負擔的肌肉骨骼疾病。隨著人口老化與肥胖盛行率上升，膝關節炎的治療已從傳統「症狀控制等待置換」的思維，轉向精準醫學時代。本章系統性梳理膝關節炎的病理生理學機制與異質性表現型（<span style="color:#e2e8f0">Osteoarthritis Phenotypes</span>），比對各大國際學會（AAOS、ACR、OARSI）的非手術治療指引，並剖析前沿修飾病程藥物（<span style="color:#e2e8f0">DMOADs</span>）與骨生物學（<span style="color:#e2e8f0">Orthobiologics</span>）的最新臨床實證。在手術重建方面，詳細探討單髁關節置換（<span style="color:#e2e8f0">UKA</span>）的精確適應症與禁忌症、非骨水泥全膝關節置換（<span style="color:#e2e8f0">Cementless TKA</span>）的固定進展，以及機器人輔助、客製化手術模具（<span style="color:#e2e8f0">PSI</span>）與智慧感測器植體在優化關節置換精準度中的角色。

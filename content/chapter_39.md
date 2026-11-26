@@ -8,8 +8,6 @@ weight: 39
 summary: "本章整理髖關節解剖與生物力學、痛點鑑別診斷、理學檢查及影像評估：介紹關節囊神經支配、髖臼唇與圓韌帶結構，分析髖周肌群隔間與功能，探討步態與壓迫力學，並彙整各項挑釁測試與 X 光、超音波、CT 及 MRI 臨床應用。"
 ---
 
-# Chapter 39: Anatomy and Biomechanics, Evaluation, Clinical Examination, and Imaging of the Hip — 髖關節解剖與生物力學、評估、理學檢查與影像
-
 ## 章節導讀
 
 髖關節為高負重之球窩關節，其穩定性取決於精密的骨骼結構、關節囊韌帶與周圍肌群的動態協調。本章深入探討髖關節的微細解剖（含關節囊神經支配、髖臼唇及圓韌帶）、29 條跨髖肌群的功能隔間與生物力學特性；進一步建構前鼠蹊、外側及後側髖痛的解剖鑑別診斷圖譜，並詳細規範步態分析、挑釁測試（如 FADDIR、FABER、Ling test 等）與微不穩定性評估；最後系統化梳理 X 光、超音波、CT 及 MRI/MRA 在髖關節病變的診斷價值。
@@ -112,7 +110,7 @@ summary: "本章整理髖關節解剖與生物力學、痛點鑑別診斷、理�
 - **關節活動範圍（ROM）**：
   - 矢狀面（Sagittal plane）：髖屈曲平均 <span style="color:#34d399">120°–125°</span>，髖伸展平均 <span style="color:#34d399">10°–15°</span>。
   - 負重活動時，骨盆旋轉（pelvic rotation）貢獻約 <span style="color:#34d399">18%</span> 的髖屈曲量。
-  - 屈膝限制：伸膝時受腘繩肌（hamstrings）牽拉會限制髖屈曲；髖伸展則受前側結構（iliofemoral ligament、前關節囊及屈髖肌群）限制。
+  - 屈膝限制：伸膝時受膕繩肌（hamstrings）牽拉會限制髖屈曲；髖伸展則受前側結構（iliofemoral ligament、前關節囊及屈髖肌群）限制。
   - 旋轉角度：外旋範圍 <span style="color:#34d399">0°–90°</span>，內旋範圍 <span style="color:#34d399">0°–70°</span>；外展平均 <span style="color:#34d399">45°</span>，內收平均 <span style="color:#34d399">30°</span>。
 - **步態運動學（Gait Kinematics）**：
   - 正常步態需約 <span style="color:#34d399">40°–50°</span> 旋轉、<span style="color:#34d399">35°</span> 髖屈曲與 <span style="color:#34d399">10°</span> 髖伸展。
@@ -149,7 +147,7 @@ summary: "本章整理髖關節解剖與生物力學、痛點鑑別診斷、理�
 |--------------|------------------------------|--------------------------------------|
 | **Anterior Groin Pain（前鼠蹊痛）** | 骨關節炎（OA）、發炎性關節炎、股骨頸應力性骨折、髖臼唇撕裂、FADDIR/FAI、股骨頭壞死、游離體 | 屈髖肌肌腱炎/拉傷、sports hernia、iliopsoas snapping syndrome、obturator/ilioinguinal 神經卡壓、osteitis pubis |
 | **Lateral Hip Pain（外側髖痛）** | — | 大轉子疼痛症候群（GTPS）、外展肌撕裂/失能、外部彈響髖（external snapping hip）、腸骨脊挫傷（hip pointer）、meralgia paresthetica |
-| **Posterior Hip Pain（後側髖痛）** | — | 伸肌/旋轉肌肌腱痛、梨狀肌症候群（piriformis syndrome）、近端腘繩肌撕裂、ischiofemoral impingement、坐骨/陰部神經卡壓、臀部跛行；薦腸關節（SI joint）或腰椎轉移痛 |
+| **Posterior Hip Pain（後側髖痛）** | — | 伸肌/旋轉肌肌腱痛、梨狀肌症候群（piriformis syndrome）、近端膕繩肌撕裂、ischiofemoral impingement、坐骨/陰部神經卡壓、臀部跛行；薦腸關節（SI joint）或腰椎轉移痛 |
 
 ### 4.2 步態與姿態檢查
 

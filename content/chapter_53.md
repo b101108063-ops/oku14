@@ -8,11 +8,9 @@ weight: 53
 summary: "本章整理頸椎退行性疾病的臨床路徑：說明頸髓病與頸椎駝背的病理機轉、神經電生理與矢狀位排列參數的評估，依神經根病變、頸髓病、畸形與軸性頸痛區分保守與手術適應症，並詳述 ACDF、後方減壓、椎板成形術、椎間孔切開術及人工椎間盤的適應症與併發症。"
 ---
 
-# Chapter 53: Cervical Degenerative Conditions — 頸椎退行性疾病
-
 ## 章節導讀
 
-頸椎退行性疾病是一個光譜：從 <span style="color:#e2e8f0">spondylosis（脊椎退化症）</span> 與 <span style="color:#e2e8f0">radiculopathy（神經根病變）</span>，一路延伸到 <span style="color:#e2e8f0">deformity（畸形）</span> 與 <span style="color:#e2e8f0">myelopathy（脊髓病變）</span>，其臨床表徵與手術策略完全不同。本章依「臨床評估與關鍵解剖、分型與決策矩陣、保守與手術治療指引、手術入路與陷阱、實證重點」五個層次整理，並以表格比較前方、后方與合併入路，以及融合與保留活動度手術的差異。
+頸椎退行性疾病是一個光譜：從 <span style="color:#e2e8f0">spondylosis（脊椎退化症）</span> 與 <span style="color:#e2e8f0">radiculopathy（神經根病變）</span>，一路延伸到 <span style="color:#e2e8f0">deformity（畸形）</span> 與 <span style="color:#e2e8f0">myelopathy（脊髓病變）</span>，其臨床表徵與手術策略完全不同。本章依「臨床評估與關鍵解剖、分型與決策矩陣、保守與手術治療指引、手術入路與陷阱、實證重點」五個層次整理，並以表格比較前方、後方與合併入路，以及融合與保留活動度手術的差異。
 
 > **原文缺漏**：本次來源檔自 PDF 第 677 頁（書頁 669）中途接入，章節前段（流行病學、頸神經根病變的完整病史與理學檢查章節）並未包含於來源文字中，於此標示為 [原文缺漏]，不作任何自行補充。
 
@@ -180,13 +178,13 @@ summary: "本章整理頸椎退行性疾病的臨床路徑：說明頸髓病與�
 ### 4.2 融合手術（Fusion Procedures）
 
 - **原理**：融合手術以跨節段橋接的方式**限制活動（restrict motion）**。
-- **代價**：融合帶來的**鄰節段疾病（adjacent segment disease）**風險——融合形成的槓桿臂將力量傳導至鄰近椎间盘。
+- **代價**：融合帶來的**鄰節段疾病（adjacent segment disease）**風險——融合形成的槓桿臂將力量傳導至鄰近椎間盤。
 - **ACDF（anterior cervical diskectomy and fusion）**：**最常見的脊椎手術**，經常用於處理單節段或多節段頸椎退行性疾病。
 - **Posterior cervical fusion（後方頸椎融合）**：較常保留給**年長、有頸髓病且為多節段病變**的病人；但因美國**人口老化**，以及**逐漸遠離單獨後方椎板切除**（因術後駝背風險），後方融合已日趨普遍。
 
-<!-- FIG: 圖 3 — 頸椎前方椎间盘切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.） -->
-![圖 3 — 頸椎前方椎间盘切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.）](/images/oku14/ch53_p0679_fig3.jpg)
-*圖 3 — 頸椎前方椎间盘切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.）*
+<!-- FIG: 圖 3 — 頸椎前方椎間盤切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.） -->
+![圖 3 — 頸椎前方椎間盤切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.）](/images/oku14/ch53_p0679_fig3.jpg)
+*圖 3 — 頸椎前方椎間盤切除融合術（ACDF）之術前（A）與術後（B）側位 X 光（Courtesy of Alan S. Hilibrand, MD, 2021.）*
 ### 4.3 保留活動度手術（Motion-Sparing Procedures）
 
 <!-- FIG: 圖 4 — Lateral preoperative (A) and postoperative (B) radio- graphs of a cerv -->
@@ -204,22 +202,20 @@ summary: "本章整理頸椎退行性疾病的臨床路徑：說明頸髓病與�
 
 ### 4.4 頸椎人工椎間盤置換（Cervical Disk Arthroplasty）
 
-頸椎人工椎間盤為**前方手術**，核准用於**一節或兩節**頸椎退行性椎间盘疾病。與融合相比，椎间盘置換**保留該節段的 facet joints（小關節）**，並藉由保留術中節段的**生理活動**而可能降低鄰節段變化的風險。
+頸椎人工椎間盤為**前方手術**，核准用於**一節或兩節**頸椎退行性椎間盤疾病。與融合相比，椎間盤置換**保留該節段的 facet joints（小關節）**，並藉由保留術中節段的**生理活動**而可能降低鄰節段變化的風險。
 
 | 考量面向 | 原文重點 |
 |----------|----------|
 | **植入物設計** | 允許**平移獨立於旋轉**的假體較能恢復生理活動範圍與來自鄰節段的負荷分擔（load-sharing） |
 | **活動量過多** | 2020 年研究顯示，**過多的活動可能與異位性骨化（heterotopic ossification）形成有關**，而異位性骨化會**隨時間降低活動範圍** |
 | **活動受限型假體** | 對**角度與平移運動具阻力**的假體可提供較佳的脊柱構造穩定性，但代價是**活動減少與鄰節段疾病風險增加** |
-| **其他穩定因子** | 假體**高度、植入位置**以及**術後軟組織包覆的完整性**皆對椎间盘置換構造的穩定有重要影響 |
+| **其他穩定因子** | 假體**高度、植入位置**以及**術後軟組織包覆的完整性**皆對椎間盤置換構造的穩定有重要影響 |
 | **病人選擇** | 理想病人：**骨質良好、無不穩定、無駝背**；**後縱韌帶骨化（OPLL）**或**強直性脊椎炎（ankylosing spondylitis）**病人常被排除，因增加的活動可能導致其疾病進展 |
-| **成本** | 許多外科醫師認為頸椎椎间盘置換**費用昂貴**；但近期研究顯示其**成本效益與 ACDF 相當（comparably cost-effective）** |
+| **成本** | 許多外科醫師認為頸椎椎間盤置換**費用昂貴**；但近期研究顯示其**成本效益與 ACDF 相當（comparably cost-effective）** |
 | **臨床結果** | 雙盲隨機對照試驗中 **2 年**結果與 ACDF **相似**，包括 NDI、視覺類比評分（VAS）、上肢與頸部疼痛分數、**SF-36 健康問卷**與 **EuroQol 問卷**等 |
 | **其他效益** | 與 ACDF 相比，**鄰節段疾病與再手術率較低**；**術後吞嚥困難比率較低**；在**兩節段疾病**中臨床結果較佳 |
 
-| **其他效益** | 與 ACDF 相比，**鄰節段疾病與再手術率較低**；**術後吞嚥困難比率較低**；在**兩節段疾病**中臨床結果較佳 |
-
-> **Danger zone 1**：**ACDF 與頸椎椎间盘置換之爭議長期存在，且置換術的採用率緩慢**——除了費用考量，關鍵在於病人選擇與假體設計的匹配，而非單純的手術技術。
+> **Danger zone 1**：**ACDF 與頸椎椎間盤置換之爭議長期存在，且置換術的採用率緩慢**——除了費用考量，關鍵在於病人選擇與假體設計的匹配，而非單純的手術技術。
 
 > **Danger zone 2**：**過度活動與異位性骨化有關**；選擇允許大量平移自由活動的假體時，需權衡骨化造成的活動度喪失。
 
@@ -240,7 +236,7 @@ summary: "本章整理頸椎退行性疾病的臨床路徑：說明頸髓病與�
 | 主題 | 來源 | 證據等級與結論 |
 |------|------|----------------|
 | 退行性頸髓病之流行病學、病理、臨床評估與處置回顧 | Badhiwala JH, Ahuja CS, Akbar MA, et al: Nat Rev Neurol 2020;16(2):108-124 | **Level V** |
-| 椎间盘退化程度不影響椎板成形術 2 年結果（144 例） | Habibi H, Suzuki A, Tamai K, et al: Spine 2020;45(18):E1142-E1149 | **Level III** |
+| 椎間盤退化程度不影響椎板成形術 2 年結果（144 例） | Habibi H, Suzuki A, Tamai K, et al: Spine 2020;45(18):E1142-E1149 | **Level III** |
 | 單節段 ACDF 對軸性頸痛的效果（37 篇研究） | Oitment C, Watson T, Lam V, et al: Global Spine J 2020;10(3):312-323 | **Level III**（術後疼痛與功能顯著改善） |
 | 頸神經根病變症狀定位不符合標準皮節分布（239 例） | McAnany SJ, Rhee JM, Baird EO, et al: Spine J 2019;19(7):1137-1142 | **Level III**（高達 **46%** 為非標準分布） |
 | 椎動脈迂曲造成的頸神經根病變手術 | Tonsbeek AM, Groen JL, Vleggeert-Lankamp CLAM: World Neurosurg 2019;135:28-34 | **Level IV**（14 例） |
@@ -266,7 +262,7 @@ summary: "本章整理頸椎退行性疾病的臨床路徑：說明頸髓病與�
 | 椎板成形術後駝骨的術前角度預測（1,025 例） | Machino M, Ando K, Kobayashi K, et al: Spine 2019;45(10):641-648 | **Level III**（**C2–C7 lordosis < 7°**） |
 | 椎板成形術為被低估的手術（250 例） | Lopez WY, Goh BC, Upadhyaya S, et al: Spine J 2021;21(4):571-577 | **Level III** |
 | 頸椎人工椎間盤之證據回顧 | Joaquim AK, Makhni MC, Riew KD: Int Orthop 2019;43(4):767-775 | **Level I**（一或二節段疾病**安全有效**） |
-| NECK 試驗：ACDF vs. 單純椎间盘切除 vs. 人工椎間盤（109 例） | Vleggeert-Lankamp CLA, Janssen TMH, van Zwet E, et al: Spine J 2019;19(6):965-975 | **Level I**（**2 年結果無差異**） |
+| NECK 試驗：ACDF vs. 單純椎間盤切除 vs. 人工椎間盤（109 例） | Vleggeert-Lankamp CLA, Janssen TMH, van Zwet E, et al: Spine J 2019;19(6):965-975 | **Level I**（**2 年結果無差異**） |
 
 ### 5.2 OKU 14 Key Study Points（本章重點整理）
 

@@ -8,8 +8,6 @@ weight: 28
 summary: "本章全面探討肩關節常見疾病之最新實證與臨床指引，涵蓋不可修復性旋轉肌袖破裂之處置選項（包含 SCR 與肌肉轉移術）、鈣化性肌腱炎與沾黏性肩囊炎之非手術及微創治療、投擲肩之病理解剖（GIRD、SLAP 破裂、肩胛骨運動障礙與二頭肌病變），以及肩關節不穩定（前向、後向與多向不穩定）與大胸肌腱斷裂之最新評估與手術策略。"
 ---
 
-# Chapter 28: Rotator Cuff Disease, Calcific Tendinitis, Adhesive Capsulitis, Throwing Shoulder, and Instability — 旋轉肌袖疾病、鈣化性肌腱炎、沾黏性肩囊炎、投擲肩與肩關節不穩定
-
 ## 章節導讀
 
 肩關節疾病占骨科門診與骨骼肌肉抱怨極高比例。隨著關節鏡技術與生物力學研究進展，不可修復性旋轉肌袖破裂（irreparable rotator cuff tear）、投擲肩（throwing shoulder）的動力鏈失調、以及第一次創傷性肩關節脫位後的早期手術干預策略均有了顯著變革。本章系統性彙整旋轉肌袖破裂處置、鈣化性肌腱炎分期與抽吸、沾黏性肩囊炎的發炎機轉、投擲運動員的病理適應（如 GIRD 與 SLAP 破裂），以及肩關節前／後／多向不穩定與骨缺損評估的 OKU 14 最新文獻實證。
@@ -26,7 +24,7 @@ summary: "本章全面探討肩關節常見疾病之最新實證與臨床指引�
 - **解剖適應**：<span style="color:#22d3ee">外旋活動度（external rotation, ER）增加</span>、<span style="color:#22d3ee">內旋活動度（internal rotation, IR）減少</span>、關節盂與肱骨頭後傾角（glenoid & humeral head retroversion）增加、以及後關節囊肥厚（posterior capsular hypertrophy）。
 - **關鍵幾何結構**：肩峰肱骨距離（<span style="color:#22d3ee">acromiohumeral distance, AHD</span>）與肩胛骨位置對動能鏈（kinetic chain）傳導至關重要。
 
-### 1.2 長頭二头肌腱與關節唇複合體檢查法
+### 1.2 長頭二頭肌腱與關節唇複合體檢查法
 
 二頭肌長頭腱（long head of the biceps tendon, LHBT）是肩部疼痛常見來源。物理檢查敏感度與特異度如下表：
 

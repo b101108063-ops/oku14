@@ -8,8 +8,6 @@ weight: 55
 summary: "本章整理胸腰椎微創手術技術與機器人輔助椎弓根螺絲植入的現況：說明微創減壓、周邊微創融合與混合手術三類成人脊柱畸形處理途徑，比較可擴張與不可擴張椎間融合器的臨床結果，並整理電腦輔助導航在準確率、輻射劑量、學習曲線與併發症方面的關鍵數據。"
 ---
 
-# Chapter 55: Thoracolumbar Minimally Invasive Surgical Techniques — 胸腰椎微創手術技術
-
 ## 章節導讀
 
 本章聚焦胸腰椎 <span style="color:#e2e8f0">minimally invasive surgery（MIS，微創手術）</span> 的技術演進與機器人輔助 <span style="color:#22d3ee">pedicle screw（椎弓根螺絲）</span> 植入的臨床證據。內容從 MIS TLIF 中可擴張與不可擴張融合器的比較切入，進入成人脊柱畸形（adult spinal deformity, ASD）的三類 MIS 途徑與決策演算法，再說明機器人與電腦輔助導航的計畫流程、輻射劑量影響與學習曲線，最後整理關鍵研究與考試重點。
@@ -106,7 +104,7 @@ MIS 的核心概念是**在達成相同手術目標的前提下，減少對後�
 | **TLIF（經椎間孔腰椎椎間融合）** | 單節段或多節段融合選項 |
 | **Anterior lumbar interbody fusion（ALIF，腰椎前方椎間融合）** | 可與後方固定的 MIS 矯正合併使用 |
 | **Percutaneous segmental fixation（經皮節段固定）** | 後方固定的 MIS 方式 |
-| **Rod rotation and reduction（棒旋轉與复位）** | 畸形矯正手段 |
+| **Rod rotation and reduction（棒旋轉與復位）** | 畸形矯正手段 |
 | **Retractor-mediated decompression（牽開器介導減壓）** | 神經減壓手段 |
 
 ### 3.2 機器人與導航帶來的選擇

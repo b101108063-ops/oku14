@@ -8,8 +8,6 @@ weight: 42
 summary: "本章整理髖關節終末期退化與人工全髖關節置換術（THA）：涵蓋術前風險優化、門診篩選、手術入路與磨損介面演進、雙動態杯應用、假體固定決策、機器人輔助實證，以及 PJI 診治、脊椎髖關節相互作用與 ALTR 併發症處置。"
 ---
 
-# Chapter 42: End-Stage Hip Degeneration and Hip Reconstruction — 髖關節終末期退化與髖關節重建
-
 ## 章節導讀
 
 人工全髖關節置換術（<span style="color:#e2e8f0">Total Hip Arthroplasty, THA</span>）是治療終末期髖關節退行性疾病（如骨關節炎、類風濕性關節炎及創傷後關節炎）最成功且最具成本效益的手術之一。隨著門診手術與短暫住院的普及，臨床焦點已由單純技術執行延伸至術前可修正風險因子的醫療最佳化（medical optimization）、手術入路選擇對早期復原與併發症剖面的影響、軸承介面（bearing surfaces）與固定技術的演化，以及機器人輔助與遠距醫療等新科技的實證評價。此外，本章深入剖析人工關節周圍感染（<span style="color:#e2e8f0">Periprosthetic Joint Infection, PJI</span>）的最新診斷標準與處置流程、脊椎髖關節相互作用（spinopelvic relationship）在預防脫位上的機轉與分型指引，以及不良局部組織反應（<span style="color:#e2e8f0">Adverse Local Tissue Reaction, ALTR</span>）的診斷與翻修策略。
@@ -161,8 +159,6 @@ PJI 是初次與翻修 THA 最毀滅性的失敗原因之一。加拿大 15 年�
 | **Group 1A** | 正常排列（PI-LL < 10°）＋ 正常活動度（ΔSS > 10°） | 正常解剖與力學 | <span style="color:#34d399">Inclination 40°–45° / Anteversion 20°–25°</span> |
 | **Group 1B** | 正常排列（PI-LL < 10°）＋ 脊椎僵硬（ΔSS < 10°） | 坐姿無法後傾，易前撞擊 | Inclination 40°–45° / Anteversion 20°–25°（若立姿骨盆後傾>13°，Target 前傾角應小於原生解剖） |
 | **Group 2A** | 脊椎畸形（PI-LL > 10°）＋ 正常活動度（ΔSS > 10°） | 畸形增加功能性前傾 | Inclination 40°–45° / Anteversion 20°–25° |
-| **Group 2B** | 脊椎畸形（PI-LL > 10°）＋ 脊椎僵硬（ΔSS < 10°） | 雙重風險，功能性前傾過大 | <span style="color:#fbbf24">Inclination 45° / Anteversion 25°–35°</span>（相對於功能性骨盆平面；若立姿骨盆後傾>13°，Target 應低於原生） |
-
 | **Group 2B** | 脊椎畸形（PI-LL > 10°）＋ 脊椎僵硬（ΔSS < 10°） | 雙重風險，功能性前傾過大 | <span style="color:#fbbf24">Inclination 45° / Anteversion 25°–35°</span>（相對於功能性骨盆平面；若立姿骨盆後傾>13°，Target 應低於原生） |
 
 > **Pearl**：對於 high-risk spinopelvic 異常患者，建議輔以 **導航或機器人技術** 精準置杯，並可審慎使用 **雙動態杯（Dual-mobility）** 以最小化脫位風險。

@@ -8,8 +8,6 @@ weight: 64
 summary: "本章整理小兒下肢與足部疾病：機械軸與 MAD 判讀、生理性與病理性膝內外翻的年齡分界、Blount 疾病分型與治療、先天性股骨／腓骨／脛骨缺損的分型與重建、脛骨後內彎曲與先天性假關節、垂直距骨、馬蹄內翻足、跗骨 coalition 與 cavovarus foot 的處理原則，並統整生長調控與多學科決策。"
 ---
 
-# Chapter 64: Pediatric Lower Extremity and Foot Disorders — 小兒下肢與足部疾病
-
 ## 章節導讀
 
 本章以「正常發育模式」為判讀基準：先由 <span style="color:#e2e8f0">mechanical axis deviation（MAD，機械軸偏移）</span> 與分區（zone）量化膝內外翻，再依年齡分界區分生理性與病理性變形；繼而處理 Blount 疾病、先天性股骨／腓骨／脛骨缺損、脛骨後內彎曲與先天性假關節，最後收束於先天性垂直距骨、馬蹄內翻足、跗骨 coalition 與 cavovarus foot。
@@ -78,7 +76,7 @@ Idiopathic tibia vara（<span style="color:#e2e8f0">Blount disease（Blount 疾�
 | Juvenile（幼年型） | 5 至 10 歲診斷 | 已描述的第三種形式，所見介於前兩者之間 |
 | Adolescent（青少年型） | 10 歲以後發病 | 通常較嬰兒型輕、更常為單側 |
 
-**幹骺端—幹角度（metaphyseal-diaphyseal angle）**：為近端脛骨干骺端與脛骨幹長軸之垂直線之間的夾角，可協助區分生理性與病理性膝畸形。
+**幹骺端—幹角度（metaphyseal-diaphyseal angle）**：為近端脛骨幹骺端與脛骨幹長軸之垂直線之間的夾角，可協助區分生理性與病理性膝畸形。
 
 | 角度 | 原文預後意義 |
 |------|--------------|
@@ -349,7 +347,7 @@ Idiopathic tibia vara（<span style="color:#e2e8f0">Blount disease（Blount 疾�
 
 | 主題 | 來源 | 證據等級與原文結論 |
 |------|------|---------------------|
-| 嬰兒型 tibia vara 復發與新修正分型 | Lamont LE, et al: JPO 2019;39(2):65-70 | Level II：內側脛骨干骺端極度垂直傾斜與高復發率相關（82 病人、115 肢體） |
+| 嬰兒型 tibia vara 復發與新修正分型 | Lamont LE, et al: JPO 2019;39(2):65-70 | Level II：內側脛骨幹骺端極度垂直傾斜與高復發率相關（82 病人、115 肢體） |
 | Blount 疾病與阻塞性睡眠呼吸中止 | Jardaly A, et al: JPO 2020;40:604-607 | Level III：接受矯正手術的 Blount 病人 OSA 比例為 23%（作者機構）與 3%（Kids' Inpatient Database）；Blount 病人 4.4% 發生併發症（低氧血症、呼吸衰竭、肺塌陷、心律不整） |
 | Cozen 現象盛行率 | Yang BW, et al: JPO 2019;39:e417-e421 | Level IV：181 名近端脛骨骨折病人中，無人需要手術矯正外翻 |
 | 腓骨半缺截肢 vs. 重建（meta-analysis） | Elmherig A, et al: JPO 2020;40(8):425-430 | Level III：截除的手術次數較少、滿意度較佳、併發症較少；但重建組用較舊技術 |

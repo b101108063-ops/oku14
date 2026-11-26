@@ -8,8 +8,6 @@ weight: 36
 summary: "本章解析腕韌帶損傷與腕骨不穩定性：依 Mayo 分類剖析 CID、CIND、CIC 與 CIA 機轉，整理舟月骨韌帶（SL）損傷之 Garcia-Elias 1–7 期分期與治療矩陣、月三角骨韌帶損傷及圍月骨脫位之處置。"
 ---
 
-# Chapter 36: Ligament Injuries of the Wrist — 腕關節韌帶損傷
-
 ## 章節導讀
 
 腕關節韌帶損傷與腕骨不穩定性（carpal instability）是手部骨科極具挑戰性的領域。本章依據 Mayo 分類系統，將腕骨不穩定性歸納為四大類：分離性（CID）、非分離性（CIND）、複合型（CIC）與適應性（CIA）。內容深入剖析舟月骨韌帶（scapholunate ligament, SL）損傷之 Garcia-Elias 1 至 7 期臨床分期與治療矩陣（包含關節鏡清創、capsulodesis、Brunelli 及其衍生 tenodesis、InternalBrace、PRC 與 4CF），並整理月三角骨韌帶（lunotriquetral ligament, LT）損傷、CIND 動態快響以及圍月骨脫位（perilunate dislocation）之實證評估與手術地雷。
@@ -141,8 +139,6 @@ Garcia-Elias 依據韌帶破裂程度、舟骨姿態、可復位性及關節軟�
 | **Brunelli / 3LT Tenodesis** | 取 FCR（橈側腕屈肌）肌腱條帶穿過舟骨骨道，重建 STT 與 SL 背側韌帶 | 三韌帶固定術（3LT）不跨越橈腕關節，能較好保留關節活動度與提供強固穩定 |
 | **360° Reconstruction / InternalBrace** | 使用超高分子量聚乙烯縫線（InternalBrace）或自體肌腱進行環繞重建 | **2021 年研究**（Kakar et al / Ross et al）：提供即刻生物力學強度，減少術後外固定時間，早期恢復活動 |
 
-| **360° Reconstruction / InternalBrace** | 使用超高分子量聚乙烯縫線（InternalBrace）或自體肌腱進行環繞重建 | **2021 年研究**（Kakar et al / Ross et al）：提供即刻生物力學強度，減少術後外固定時間，早期恢復活動 |
-
 > **Pearl**：進行 360° Reconstruction 或 InternalBrace 重建時，**骨道鑽孔的位置與角度是成敗關鍵**；若鑽孔過度偏向軟骨邊緣，可能導致舟骨骨折或錨釘拔出失敗。
 
 ### 4.2 救贖性手術：PRC, 4CF 與全腕關節融合
@@ -153,7 +149,7 @@ Garcia-Elias 依據韌帶破裂程度、舟骨姿態、可復位性及關節軟�
   - 切除舟骨、月骨與三角骨，使頭骨（capitate）直接與橈骨月骨窩關節面咬合。
   - **禁忌症**：Capitate 頂端或橈骨月骨窩軟骨有退行性磨損（capitate-lunate arthritis）。
 - **Four-Corner Fusion (4CF, 四角骨融合術)**：
-  - 切除舟骨，融合頭骨、鈎骨、月骨與三角骨。
+  - 切除舟骨，融合頭骨、鉤骨、月骨與三角骨。
   - 適用於頭骨頂端軟骨已受損的 SLAC 2/3 期患者。
 
 > **Danger zone**：PRC 術前必須透過關節鏡或術中視診確認 **capitate 頂端軟骨完好**！若軟骨已磨損仍施行 PRC，將導致嚴重的創傷後關節炎與早期失敗。

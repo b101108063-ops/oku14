@@ -8,8 +8,6 @@ weight: 4
 summary: "本章介紹美國 FDA 對骨科醫材的管制架構：風險分級與一般管制、上市前審查途徑（PMA、IDE、510(k)、De Novo、HDE、PDP、custom device exemption、同情使用），以及組合產品、人體細胞與組織產品、生物製劑與藥物的分級審查，並整理上市後不良事件通報、召回分級與外科醫師因應指引。"
 ---
 
-# Chapter 4: Regulation of Orthopaedic Products — 骨科產品的法規管制
-
 ## 章節導讀
 
 骨科醫材在美國絕大多數屬於 <span style="color:#e2e8f0">medical device</span>（醫療器材），由 FDA 之 <span style="color:#e2e8f0">CDRH</span> 依風險分級管制。本章先建立「分級 → 途徑 → 上市後監測」的架構，再說明各途徑的時程與關鍵條件，最後落到外科醫師最常面對的不良事件通報、召回分類與 off-label 使用的界線。
@@ -95,7 +93,7 @@ FDA 對醫療器材的管制涵蓋**產品全生命週期**：上市前（premar
 判準要求：
 
 1. 預期用途相同；
-2. 技術特性相同，或若有差異，該差異**不會**引入新的安全與有效性问题，且 **performance testing** 可證明器材與 predicate 一樣安全有效。
+2. 技術特性相同，或若有差異，該差異**不會**引入新的安全與有效性問題，且 **performance testing** 可證明器材與 predicate 一樣安全有效。
 
 - **限制**：Class III 器材、藥物／生物製劑、未經核准或 clearance 的器材**不得**作為 predicate。
 - **時程**：FDA 進行 **90 天**審查，通常於 **60 天**時點發出 Additional Information Request（暫停時鐘）；sponsor 有額外 **180 天**回覆。510(k) 通常被視為**時間與成本進入門檻最低**的途徑。
@@ -177,7 +175,7 @@ FDA 指引中 custom device 的例子：身材極小者的全髖關節置換、�
 - <span style="color:#e2e8f0">PMOA</span>（primary mode of action）：組合產品中提供**最重要治療作用**的單一作用模式。
 - **多中心審查**：CBER、CDER、CDRH 共同參與並依 PMOA 指定 **lead center**；依據為 PMOA、預期用途、**法規優先性**與科學知識。
 - **時程**：提出 **Request for Designation (RFD)** 給 Office of Combination Products，FDA 於 **60 天**內回覆指派 lead center；亦可透過 **Pre-RFD** 取得**非正式意見**。
-- **Jurisdiction 範例**：若組合產品含器材（如金屬硬體）與生物成分（細胞、血液、組織），且 **PMOA 歸屬生物製品**，則由 **CBER** 取得主要管辖權、**CDRH** 為 consult center；CBER 亦以適用的醫材法規管制與已核准血液、細胞產品相關的醫療器材。
+- **Jurisdiction 範例**：若組合產品含器材（如金屬硬體）與生物成分（細胞、血液、組織），且 **PMOA 歸屬生物製品**，則由 **CBER** 取得主要管轄權、**CDRH** 為 consult center；CBER 亦以適用的醫材法規管制與已核准血液、細胞產品相關的醫療器材。
 
 ### 3.2 人體細胞與組織產品 (HCT/Ps)：361 與 351 條之分野
 

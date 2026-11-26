@@ -8,8 +8,6 @@ weight: 45
 summary: "本章探討半月板病變、修復與同種異體移植：詳述膝關節半月板與後角微細解剖，整理桶柄狀、根部、放射狀、水平裂與 Ramp 病變之手術適應症，比較全內與由內而外修復法，並評估兒童修復與同種異體移植（MAT）之長期存活率與復歸運動實證。"
 ---
 
-# Chapter 45: Meniscal Pathology, Repair, and Transplant — 半月板病變、修復與移植
-
 ## 章節導讀
 
 半月板在膝關節中承擔傳導應力（<span style="color:#60a5fa">hoop stress</span>）、穩定關節與保護軟骨之關鍵功能。近年關節鏡技術與生物力學研究促使半月板治療理念從「切除」全面轉向「盡可能修復與保留」。本章涵蓋半月板微細解剖與影像診斷，深入探討桶柄狀撕裂（<span style="color:#e2e8f0">bucket-handle tears</span>）、根部撕裂（<span style="color:#e2e8f0">root tears</span>）、放射狀撕裂（<span style="color:#e2e8f0">radial tears</span>）、水平裂（<span style="color:#e2e8f0">horizontal cleavage tears</span>）及 <span style="color:#e2e8f0">Ramp 病變</span>之修復成效，並評估兒童與青少年半月板撕裂之處置以及半月板同種異體移植（<span style="color:#e2e8f0">MAT</span>）之長期存活率與復歸運動實證。
@@ -23,11 +21,11 @@ summary: "本章探討半月板病變、修復與同種異體移植：詳述膝�
 ### 1.1 內側與外側半月板後角之微細解剖
 
 - <span style="color:#22d3ee">Posteromedial meniscus（後內側半月板）</span>：DePhillipo 等人（2019）的屍體研究顯示，<span style="color:#22d3ee">meniscocapsular ligament（半月板關節囊韌帶）</span>與 <span style="color:#22d3ee">meniscotibial ligament（半月板脛骨韌帶/冠狀韌帶）</span>在內側半月板後角融合為共同附著（common attachment），作為單一結構單元以穩定半月板外圍周緣。這也是定義 <span style="color:#e2e8f0">meniscal ramp lesion（半月板 Ramp 病變）</span> 的解剖基礎。
-- <span style="color:#22d3ee">Posterolateral meniscus（後外側半月板）</span>：Aman 等人（2019）詳細量化與解剖了外側半月板脛骨韌帶以及 <span style="color:#22d3ee">popliteomeniscal fascicles（腘半月板束）</span>的附著點，包含：<span style="color:#22d3ee">posteroinferior popliteomeniscal fascicle (PIF)</span>、<span style="color:#22d3ee">posterosuperior popliteomeniscal fascicle (PSF)</span> 與 <span style="color:#22d3ee">anterosuperior popliteomeniscal fascicle (ASF)</span>，並界定了 <span style="color:#22d3ee">popliteal hiatus（腘肌腱裂孔）</span>。
+- <span style="color:#22d3ee">Posterolateral meniscus（後外側半月板）</span>：Aman 等人（2019）詳細量化與解剖了外側半月板脛骨韌帶以及 <span style="color:#22d3ee">popliteomeniscal fascicles（膕半月板束）</span>的附著點，包含：<span style="color:#22d3ee">posteroinferior popliteomeniscal fascicle (PIF)</span>、<span style="color:#22d3ee">posterosuperior popliteomeniscal fascicle (PSF)</span> 與 <span style="color:#22d3ee">anterosuperior popliteomeniscal fascicle (ASF)</span>，並界定了 <span style="color:#22d3ee">popliteal hiatus（膕肌腱裂孔）</span>。
 
-<!-- FIG: 圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、腘半月板下束（PIF）、腘半月板上束（PSF）及腘半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019） -->
-![圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、腘半月板下束（PIF）、腘半月板上束（PSF）及腘半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019）](/images/oku14/ch45_p0579_fig2.jpg)
-*圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、腘半月板下束（PIF）、腘半月板上束（PSF）及腘半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019）*
+<!-- FIG: 圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、膕半月板下束（PIF）、膕半月板上束（PSF）及膕半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019） -->
+![圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、膕半月板下束（PIF）、膕半月板上束（PSF）及膕半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019）](/images/oku14/ch45_p0579_fig2.jpg)
+*圖 2 — 外側半月板後方附著結構示意圖，包含半月板脛骨韌帶（meniscotibial ligament）、膕半月板下束（PIF）、膕半月板上束（PSF）及膕半月板前上束（ASF）。（引用自 Aman ZS et al, Am J Sports Med 2019）*
 ### 1.2 影像學診斷與修復可行性預測
 
 | 診斷/追蹤標的 | 研究團隊與證據等級 | 臨床發現與診斷效能 |

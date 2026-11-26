@@ -8,8 +8,6 @@ weight: 67
 summary: "本章整合小兒骨骼發育不良、結締組織與遺傳疾病的診斷線索、遺傳模式、脊柱及四肢變形、監測策略與手術門檻，並以疾病矩陣與實證數據呈現跨專科照護重點。"
 ---
 
-# Chapter 67: Pediatric Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions — 小兒骨骼發育不良、結締組織疾病及其他遺傳性疾病
-
 ## 章節導讀
 
 這些疾病個別少見，卻會在一般骨科、兒童骨科、脊柱與關節重建場域反覆出現。安全決策的核心是先辨識<span style="color:#60a5fa;font-weight:600">遺傳與自然史、骨質與軟組織特性、神經與心肺風險</span>，再決定觀察、代謝治療、成長導引或重建手術，而不是把常見疾病的標準術式直接套用。

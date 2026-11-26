@@ -8,8 +8,6 @@ weight: 7
 summary: "本章以骨科角度整合凝血生理、VTE 預防與血液管理三大主題，說明各類預防藥物的機轉、劑量、監測與解毒劑，比較 AAOS、ACCP 指引與 SCIP 品質指標，並詳述 TXA 的用法禁忌及異體輸血的閾值與整套術前、術中、術後血液管理策略。"
 ---
 
-# Chapter 7: Coagulation and Blood Management — 凝血功能與血液管理
-
 ## 章節導讀
 
 接受髖、膝關節置換與骨折手術的病人，同時面臨**靜脈血栓栓塞（VTE）**與**出血**兩種相反風險，本章核心即在兩者間取得平衡。第一節建立凝血與纖維蛋白溶解的生理基礎，第二節整理機械性與藥物性預防（含 AAOS 2011、ACCP 2012 指引與 SCIP 品質指標），第三節說明 TXA 與異體輸血的演算法，最後提出臨床陷阱與決策爭議。
@@ -106,13 +104,13 @@ summary: "本章以骨科角度整合凝血生理、VTE 預防與血液管理三
 - **限制**：需注射；LMWH 有**肝素誘發性血小板減少症（HIT）**風險（fondaparinux 無此風險）；LMWH 的**術後傷口引流增加**。
 - LMWH 證據有效，是 **ACCP 2012 CPG** 首選，也是多數 DOAC 的比較基準；fondaparinux 預防 VTE 可能**優於 LMWH**，但**出血可能增加**。
 
-> **Pearl**：fondaparinux 沒有 HIT 風險，是長期肝素矛盾或疑有 HIT 病人值得考慮的替代方案，代价是出血與費用。
+> **Pearl**：fondaparinux 沒有 HIT 風險，是長期肝素矛盾或疑有 HIT 病人值得考慮的替代方案，代價是出血與費用。
 
 ### 2.6 直接 Xa 與凝血酶抑制劑 (DOACs)
 
 | 藥物 | 半衰期 | 解毒劑 | 關鍵試驗結果 |
 |------|--------|--------|--------------|
-| <span style="color:#fb923c">Rivaroxaban</span> | 5–9 小時 | Andexanet alfa（FDA 2018 核准） | RCT 中預防髖關節置換後 VTE **優於 enoxaparin**，出血未增加；非大手术下肢亦優於 LMWH |
+| <span style="color:#fb923c">Rivaroxaban</span> | 5–9 小時 | Andexanet alfa（FDA 2018 核准） | RCT 中預防髖關節置換後 VTE **優於 enoxaparin**，出血未增加；非大手術下肢亦優於 LMWH |
 | <span style="color:#fb923c">Apixaban</span> | 12 小時 | Andexanet alfa（FDA 2018 核准） | RCT 中預防髖關節置換後 VTE **優於 enoxaparin**，出血未增加 |
 | <span style="color:#fb923c">Dabigatran</span> | 約 12 小時 | Idarucizumab（FDA 2015 核准） | 三試驗 pooled 分析：療效與出血率與 LMWH 相近 |
 

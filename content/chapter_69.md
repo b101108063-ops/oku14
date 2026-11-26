@@ -8,8 +8,6 @@ weight: 69
 summary: "本章整合小兒肌肉骨骼感染的定位、病原辨識、急性期反應與嚴重度分層，說明抗生素及清創決策，並比較發炎性疾病與非意外性創傷的鑑別警訊。"
 ---
 
-# Chapter 69: Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma — 小兒肌肉骨骼感染、發炎疾病與非意外性創傷
-
 ## 章節導讀
 
 小兒肌肉骨骼感染（<span style="color:#e2e8f0">Pediatric Musculoskeletal Infection, MSKI</span>）並非單一關節或單一組織的疾病；感染可同時累及關節、骨與肌肉，並以病原毒力、散布程度及宿主急性期反應共同決定嚴重度。本章以快速定位感染、取得正確培養、追蹤急性期反應及控制感染源為主軸，並整理幼年型特發性關節炎、風濕熱與非意外性創傷等重要擬態疾病。

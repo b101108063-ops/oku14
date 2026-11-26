@@ -8,8 +8,6 @@ weight: 35
 summary: "本章涵蓋上肢壓迫性神經病變與手部小關節炎的診斷與處置。神經部分探討 CTS、Cubital Tunnel、Radial Tunnel、Pronator Syndrome 與 Parsonage-Turner Syndrome 的臨床特徵、診斷工具與轉移術式；關節炎部分針對 DIP、PIP、MCP 之退化性與類風濕關節炎，比較融合術與人工關節置換之存活率及併發症。"
 ---
 
-# Chapter 35: Neuropathies and Hand Arthritis — 神經病變與手部關節炎
-
 ## 章節導讀
 
 上肢壓迫性神經病變與退化性關節炎是手科醫師最常面對的非創傷性病理。本章全面探討中樞至周邊神經壓迫（腕隧道症候群、肘隧道症候群、橈骨隧道症候群、旋前圓肌症候群及 Parsonage-Turner 症候群）的臨床測試、超音波/磁振造影診斷進展與最新手術策略（如 WALANT、微創及神經轉移術）；同時詳述手部 DIP、PIP 與 MCP 關節炎在保守治療失敗後，融合術（Arthrodesis）與置換術（Arthroplasty，含矽膠、熱解碳、金屬-聚乙烯）的選擇矩陣、植入物存活率與臨床決策陷阱。

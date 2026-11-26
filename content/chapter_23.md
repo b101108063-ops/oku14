@@ -8,8 +8,6 @@ weight: 23
 summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、遠端骨折，肘部骨折脫位（terrible triad、Monteggia）、尺骨鷹嘴與橈骨頭骨折、前臂與 Galeazzi 骨折脫位、橈骨遠端骨折，以及腕手部舟骨、月骨周與掌骨指骨骨折，重點在於多數骨折可採保守治療並以共享決策與隨機對照試驗證據為依據。"
 ---
 
-# Chapter 23: Upper Extremity Trauma — 上肢創傷
-
 ## 章節導讀
 
 上肢創傷佔所有骨折的相當比例，治療決策從「一律手術」逐步轉向「先界定保守治療可接受的族群，再以共享決策與 RCT 證據決定是否手術」。本章依解剖部位由近端至遠端整理近五年（2018–2021）的高階證據：肱骨近端著重 rTSA 與 ORIF 的取捨，肱骨幹強調延遲手術的代價，肘部聚焦 terrible triad 與 Monteggia 的預後，腕手部則多為非手術治療即可達成的骨折。章末整理 OKU 14 的核心訊息與必讀文獻。
@@ -38,7 +36,7 @@ summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、�
 - 肱骨幹骨折即使有移位，多數仍可非手術治療，此仍為治療主軸（mainstay）。
 - <span style="color:#e2e8f0">Radial nerve palsy</span>（橈神經麻痺）合併肱骨幹骨折約 **20%**，但其中 **90% 可自行恢復**。
 
-| 绝对手術適應症（absolute surgical indication） | 說明 |
+| 絕對手術適應症（absolute surgical indication） | 說明 |
 |------|------|
 | Brachial plexus injury | 臂叢神經損傷 |
 | Vascular injury requiring repair | 需修補之血管損傷 |
@@ -75,7 +73,7 @@ summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、�
 | **肱骨遠端** | AO（柱狀／雙柱） | 骨質品質、是否可重建、年齡 |
 | **肘骨折脫位** | terrible triad、Monteggia vs. transolecranon、Mason | 橈骨頭可否固定、冠狀突狀況 |
 | **尺骨鷹嘴** | AO | 移位程度、合併症（醫療狀況不穩定者） |
-| **橈骨頭** | Mason II／III、Regan–Teter | 位移、是否有 mechanical block（機械性阻挡） |
+| **橈骨頭** | Mason II／III、Regan–Teter | 位移、是否有 mechanical block（機械性阻擋） |
 | **前臂** | AO both-bone、AO type C | 開放傷、骨缺損、感染 |
 | **Galeazzi** | 橈骨幹（多為遠端 1/3）＋ DRUJ 脫位 | DRUJ 不穩定定義（有爭議） |
 | **橈骨遠端** | AO type I–III、Extra-articular / Intra-articular | 縮短 >3 mm、關節內階差 >2 mm、掌傾角 >10°、年齡 |
@@ -97,7 +95,7 @@ summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、�
 | 條件 | 具體內容 |
 |------|----------|
 | 移位程度低 | 肱骨近端輕微移位、橈骨頭 <5 mm 孤立骨折、舟骨腰部未移位、老年橈骨遠端 |
-| 無機械性阻挡 | 無 motion block；無神經症狀 |
+| 無機械性阻擋 | 無 motion block；無神經症狀 |
 | 病人可接受 | 經 shared decision-making 說明後接受功能受限 |
 | 醫療狀況允許 | 尺骨鷹嘴骨折之「醫療狀況不佳」族群為非手術治療的代表適應症 |
 
@@ -113,7 +111,7 @@ summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、�
 |-------------|-----------|----------|
 | Launonen et al.（2019） | RCT，移位（>1 cm 或 >45°）二部分骨折，保守 vs. ORIF | 2 年時多種結果評分**無統計差異**；手術組**併發症較多** |
 | Robinson et al.（2019） | 回顧，368 例嚴重移位骨折，ORIF | 10 年再手術率 26%；**排除僵硬（stiffness）相關再手術後降至 10%**；病人自述功能、疼痛與滿意度多為良好至極佳 |
-| Plath et al.（2019） | RCT，68 例，locking blade IMN vs. ORIF | IMN 組 1 年 DASH 較佳，且复位喪失（reduction loss）與螺釘穿出（screw cutout）較少 |
+| Plath et al.（2019） | RCT，68 例，locking blade IMN vs. ORIF | IMN 組 1 年 DASH 較佳，且復位喪失（reduction loss）與螺釘穿出（screw cutout）較少 |
 | Orman et al.（2020） | 網絡 meta-analysis，8 項 RCT，三部分／四部分骨折 | rTSA 較半肩置換有**較少不良事件與較佳臨床評分**；保守治療較 ORIF 有**較低非計畫手術與不良事件率**，並與半肩、rTSA 的臨床評分、不良事件及非計畫手術相似 |
 | Fraser et al.（DELPHI trial） | 多中心 RCT，124 例，>65 歲移位骨折，rTSA vs. ORIF | **rTSA 組 Constant 評分顯著較佳**（尤其 C2 型次群組） |
 | Lehtimaki et al.（2020） | 北歐登錄資料，1,523 例 rTSA | 5 年存活率（survivorship）**97%** |
@@ -202,7 +200,7 @@ summary: "本章回顧上肢創傷的處理原則，涵蓋肱骨近端、幹、�
 | WRIST 次群組（2020） | 166 例 >70 歲 | 最終影像位移增加與握力下降相關；但與 MHQ 總分／功能分**無關**，顯示**解剖復位未必帶來 1 年時較佳結果** |
 | WRIST 次群組（2020） | 146 例 | **87 例**於 1 年仍有慢性疼痛；**手術延遲 >1 週使慢性疼痛風險增加約三倍**；**VLP 降低慢性疼痛風險** |
 
-> **Pearl**：老年橈骨遠端骨折「影像學复位漂亮」並不等於「病人結果較好」——這是 WRIST 次群組最具臨床衝擊的發現。
+> **Pearl**：老年橈骨遠端骨折「影像學復位漂亮」並不等於「病人結果較好」——這是 WRIST 次群組最具臨床衝擊的發現。
 
 > **Danger zone**：把 6 週時的早期功能優勢外推成長期優勢是錯誤推論；1 年時組間無差異。且**手術延遲超過 1 週**會明顯增加慢性疼痛，此點應作為「不要等待復位」的依據。
 

@@ -8,8 +8,6 @@ weight: 37
 summary: "本章整理手與手腕屈伸肌腱損傷與肌腱病變：說明屈肌腱 Zone I–V 修復、縫合力學、滑車處理與復健；伸肌腱分區（鎚狀指 Doyle 分型、鈕扣孔畸形 Elson 測試）診治；以及狄奎凡氏腱鞘炎、交叉症候群與扳機指切開之處置實證。"
 ---
 
-# Chapter 37: Tendon Injuries and Tendinopathies of the Hand and Wrist — 手腕肌腱損傷與肌腱病
-
 ## 章節導讀
 
 手部與手腕的肌腱結構極為精密，屈肌腱（flexor tendons）與伸肌腱（extensor tendons）在狹窄的解剖管道與滑車系統中運作，微小的肌腱表面不平滑或張力改變均會顯著影響手部功能。本章系統性整理屈肌腱與伸肌腱之急慢性損傷修復、解剖分區（Zones）、縫合生物力學、重建策略與復健協定；並深入剖析常見之伸屈肌腱病變（如狄奎凡氏狹窄性腱鞘炎 de Quervain tenosynovitis、交叉症候群 intersection syndrome、尺側腕伸肌 ECU 病變與扳機指 trigger finger）之最新臨床處置演算法與實證醫學更新。
@@ -26,7 +24,7 @@ summary: "本章整理手與手腕屈伸肌腱損傷與肌腱病變：說明屈�
 
 | 分型 | 肌腱退縮位置 (Level of Retraction) | 繫膜血供破壞 (Vincular System) | 解剖與骨塊特徵 | 臨床處置與時機建議 |
 |------|-----------------------------------|-------------------------------|----------------|-------------------|
-| **Type I** | 退縮至手掌（掌心，蚓状肌起點） | <span style="color:#f87171">VLP 與 VBP 完全斷裂</span> | 無骨折塊，繫膜血供喪失 | <span style="color:#f87171">最急迫</span>，應於 **10 天內** 手術重建，避免肌腱壞死與肌肉肌腱攣縮 |
+| **Type I** | 退縮至手掌（掌心，蚓狀肌起點） | <span style="color:#f87171">VLP 與 VBP 完全斷裂</span> | 無骨折塊，繫膜血供喪失 | <span style="color:#f87171">最急迫</span>，應於 **10 天內** 手術重建，避免肌腱壞死與肌肉肌腱攣縮 |
 | **Type II** | 退縮至 PIP 關節位準 | VBP 斷裂，<span style="color:#34d399">VLP 保留</span> | 伴隨微小掌側骨片（small bone fleck） | 繫膜血供部分保留，即使延遲至 **3 個月** 修復仍可獲得良好療效 |
 | **Type III** | 停留在 A4 滑車遠端 / DIP 關節附近 | <span style="color:#34d399">繫膜血供未破壞</span> | 伴隨較大骨折塊，卡在 A4 滑車阻擋退縮 | 早期探查並行骨折塊開放復位內固定（ORIF） |
 | **Type IV** | 退縮至手掌或 PIP 位準 | 繫膜血供破壞 | FDP 肌腱自撕脫骨塊上進一步撕裂脫離 | 需同時修復肌腱與固定骨折塊 |

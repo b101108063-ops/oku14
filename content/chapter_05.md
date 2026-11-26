@@ -8,8 +8,6 @@ weight: 5
 summary: "本章解析美國醫療政策與骨科照護的關聯：聯邦資助的 Medicare 與 Medicaid 架構、私人保險型態、DRG 與醫師費用表的給付方式、醫院取得條件（HAC）扣款、病人保護與可負擔醫療法案（ACA）及其憲法攻防，以及替代支付模式、MACRA、醫院星等評分與價格透明化等政策趨勢。"
 ---
 
-# Chapter 5: Health Policy — 醫療政策
-
 ## 章節導讀
 
 醫療政策不是骨科醫師的行政雜務，而是決定醫院能否收支平衡、術式能否執行、病人能否取得照護的系統性框架。本章從美國聯邦資助的 Medicare 與 Medicaid 談起，進入 DRG 給付、醫院取得條件扣款、ACA 與替代支付模式，最後整理星等評分、門診關節置換、ASC 與價格透明化對臨床與經營的衝擊。
@@ -37,7 +35,7 @@ Medicare 提供年滿 65 歲美國成人的醫療保險。制度建立前估計�
 | 成本分擔 | 年度 deductible 達成後自付 20% coinsurance；A/B 級預防篩檢由 Part B 支付 100% |
 
 - **99% 的受益人**不需支付任何 deductible；僅 **1%** 承保工作年資未滿 10 年者需繳年度調整的住院 deductible（2021 年為 <span style="color:#f87171">$1,484</span>）。
-- **Part C 的取捨**：Advantage 計劃收到聯邦 rebates，須部分用於降低保費、增加額外給付或降低 cost sharing。2019 年約 **1/3** 参保人加入 Advantage，其中逾 **60%** 選較便宜的 HMO——但可能產生<span style="color:#f87171">取得專科照護障礙</span>。
+- **Part C 的取捨**：Advantage 計劃收到聯邦 rebates，須部分用於降低保費、增加額外給付或降低 cost sharing。2019 年約 **1/3** 參保人加入 Advantage，其中逾 **60%** 選較便宜的 HMO——但可能產生<span style="color:#f87171">取得專科照護障礙</span>。
 - **人口與支出趨勢**：成立時 1,900 萬人；2020 年估計 <span style="color:#60a5fa">6,120 萬</span>人，2030 年預估 8,000 萬人；支出由 2018 年 <span style="color:#34d399">$7,502 億</span>增至 2028 年逾 <span style="color:#f87171">$1.5 兆</span>。近可能政策為合格年齡降至 60 歲、納入牙科與視力。
 - 1997 年《Balanced Budget Act》為平衡預算而**擴大** Medicare，允許私人保險提供替代方案，將更多成本轉由個人負擔。
 
@@ -52,7 +50,7 @@ Medicaid 依 1965 年 Social Security Amendments 第 XIX 條設立，為聯邦�
 | 領取 SSI 現金援助的高齡者與障礙者 | SSI 受助者 |
 
 - 聯邦 matching 依各州人均所得介於 <span style="color:#34d399">50%–75%</span>；ACA 規定 2014–2016 年至多 100%、2020 年後 90%，以支持州層級擴大。
-- **逆週期特性（countercyclical）**：經濟衰退時許多人失去工作與雇主保險，参保人數隨之上升——2008 年金融危機後增加逾 <span style="color:#60a5fa">1,000 萬人</span>，紓解無保險者需求並降低州政府財務壓力。
+- **逆週期特性（countercyclical）**：經濟衰退時許多人失去工作與雇主保險，參保人數隨之上升——2008 年金融危機後增加逾 <span style="color:#60a5fa">1,000 萬人</span>，紓解無保險者需求並降低州政府財務壓力。
 - 現況：涵蓋約 <span style="color:#60a5fa">1/5</span> 美國人、占醫療支出 <span style="color:#60a5fa">16%</span>；2019 財年支出約 <span style="color:#34d399">$6,040 億</span>。
 - **State CHIP**：依 1997 年《Balanced Budget Act》設立，服務所得高於 Medicaid 門檻但無力負擔私人健保家庭之兒童；聯邦 matching 較優，多數與 Medicaid 合併。
 
@@ -151,7 +149,7 @@ CMS 以 Medicare 醫師費用表給付醫療服務，以 <span style="color:#e2e
 - 紐約州 2020 年研究評估 10 種最常見選擇性骨科手術可近性，發現 ACA 支持的 Medicaid 擴大與參保人數增加、<span style="color:#60a5fa">骨科照護使用率同步上升</span>。
 - 路易斯安那州 2016 年擴大 Medicaid，參保人數增加逾 400,000，占居民比例由約 20% 升至 <span style="color:#60a5fa">30%</span>；但研究仍顯示**門診骨科可近性明顯受限**。
 
-> **Danger zone**：ACA 雖擴大「投保率」，卻未必等同擴大「專科門診可近性」；不應僅以参保數字推論市場需求。
+> **Danger zone**：ACA 雖擴大「投保率」，卻未必等同擴大「專科門診可近性」；不應僅以參保數字推論市場需求。
 
 ### 3.3 替代支付模式 (APMs) 與打包支付
 
@@ -208,8 +206,6 @@ HHS 設定目標：至 2016 年底至少 **30%**、2018 年底 **50%** 的 Medic
 | <span style="color:#e2e8f0">Finance</span> | 籌款總額、每病例與每次住院成本變化、住院天數、服務支出對收入之比 |
 | <span style="color:#e2e8f0">Internal business processes</span> | 決策模式、訓練時間、投入品質發展的預算比例、新品質 protocols |
 | <span style="color:#e2e8f0">Learning and growth</span> | 訓練／教學相關之組織能力 |
-| <span style="color:#e2e8f0">Customer</span> | 重大事件、每位醫師門診／年病人數、員工流失率與滿意度、病人滿意度、申訴數、出院時效 |
-
 | <span style="color:#e2e8f0">Customer</span> | 重大事件、每位醫師門診／年病人數、員工流失率與滿意度、病人滿意度、申訴數、出院時效 |
 
 骨科診所還須因 BSC 要求重新設計組織結構；**設置內部稽核與風險管理單位以進行日常評估**至關重要。
@@ -275,7 +271,7 @@ Trump 行政支持下，兩黨議員通過立法，要求全美醫院線上公�
 
 - <span style="color:#60a5fa;font-weight:600">政策框架</span>：1965 年 Social Security Amendments 設立 Medicare 與 Medicaid；私人保險為最大單一來源（2018 年占 34% 支出，2019 年覆蓋 67.3% 人口）。
 - <span style="color:#f87171;font-weight:600">ACA 的落差</span>：投保率上升不等於專科可近性上升；路易斯安那州 Medicaid 占比升至 30%，但門診骨科可近性仍受限。
-- <span style="color:#60a5fa;font-weight:600">Medicare</span>：Part A（住院／機構照護）、Part B（醫師與門診服務，自付 20% coinsurance，預防篩檢 100%）、Part C（Advantage，2019 年約 1/3 参保）、Part D（處方藥）；2020 年 6,120 萬人，2030 年預估 8,000 萬人。
+- <span style="color:#60a5fa;font-weight:600">Medicare</span>：Part A（住院／機構照護）、Part B（醫師與門診服務，自付 20% coinsurance，預防篩檢 100%）、Part C（Advantage，2019 年約 1/3 參保）、Part D（處方藥）；2020 年 6,120 萬人，2030 年預估 8,000 萬人。
 - <span style="color:#60a5fa;font-weight:600">Medicaid</span>：聯邦—州夥伴，matching 50%–75%（ACA 期最高 100%），強制基準 138% FPL；涵蓋約 1/5 美國人、16% 醫療支出，具逆週期性；State CHIP 服務門檻略高之兒童。
 - <span style="color:#f87171;font-weight:600">私人保險型態</span>：HMO 以 PCP 為 gatekeeper 且無網外給付；PPO 可網外就醫但免轉介；POS 仍須 PCP 授權；EPO 無網外但免轉介；catastrophic deductible $8,150；HSA 可 rollover，FSA 年末作廢。
 - <span style="color:#60a5fa;font-weight:600">給付機制</span>：MS-DRG 470 為第四常見主要診斷；RVU 提案調降全骨科 5%、髖膝置換額外 5.4%，因疫情暫緩。

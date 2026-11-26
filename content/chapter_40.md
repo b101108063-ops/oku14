@@ -8,8 +8,6 @@ weight: 40
 summary: "本章整理髖關節早期退行性病變：涵蓋 FAI 與發育不良之解剖力學與影像指標（LCEA、Tönnis 角、假側位片），介紹 Beck 軟骨與髖臼唇分型，並解析髖關節鏡、Ganz 開放脫位及 PAO 之適應症與存活率。"
 ---
 
-# Chapter 40: Early Degenerative Conditions of the Hip — 髖關節早期退行性病變
-
 ## 章節導讀
 
 年輕成年人的髖關節早期退行性病變（Early Degenerative Conditions of the Hip）主要由兩種截然不同但互相影響的解剖病理機制所驅動：**股骨髖臼撞擊症（Femoroacetabular Impingement, FAI）**與**髖關節發育不良（Developmental Dysplasia of the Hip, DDH）**。發育結構異常會顯著增加髖臼唇（labrum）與關節軟骨的生物力學剪應力，若未早期診斷與處置，將不可逆地演變為關節軟骨破壞與進行性骨關節炎（osteoarthritis）。本章系統性整理兩大病因的解剖力學特徵、影像量測指標（如 LCEA、Tönnis 角、假側位片）、Beck 軟骨與髖臼唇損傷分型、保守治療與關節鏡手術適應症，並深入探討伯恩斯髖臼周圍截骨術（Bernese PAO）與 Ganz 手術關節脫位術的技術細節、併發症預防及長達 30 年的關節存活率實證數據。
@@ -171,8 +169,6 @@ Bernese PAO 於 1988 年由 Ganz 首創，為成人發育不良的三維髖臼�
 | **Ischium（坐骨截骨）** | 不完全截骨（incomplete cut） | **保留後柱（posterior column）完整性**，提供截骨後固有生物力學穩定度 |
 | **Superior Pubic Ramus（恥骨上支截骨）** | 恥骨上支全切斷 | 靠近髖臼邊緣切斷，利於旋轉 |
 | **Ilium（腸骨截骨）** | 髖臼上方截骨（supra-acetabular cut）＋ 後柱 split 截骨 | 腸骨截骨自前上方延伸，後柱截骨在坐骨大孔（greater sciatic notch）與髖臼中點劃開 |
-| **固定方式 (Fixation)** | 移動髖臼塊矯正前側/外側覆蓋與旋轉角後固定 | 使用 **3.5 mm 或 4.5 mm 全螺紋螺絲（full-threaded screws）** 堅強固定 |
-
 | **固定方式 (Fixation)** | 移動髖臼塊矯正前側/外側覆蓋與旋轉角後固定 | 使用 **3.5 mm 或 4.5 mm 全螺紋螺絲（full-threaded screws）** 堅強固定 |
 
 > **Pearl**：現代 PAO 入路已演進為 **Abductor-sparing（保留外展肌）** 與 **Rectus-sparing（保留股直肌）** 入路，大幅減少術後肌肉無力與步態異常。對於合併髖臼唇撕裂者，可聯合執行 PAO 與髖關節鏡修復。

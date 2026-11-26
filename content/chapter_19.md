@@ -8,8 +8,6 @@ weight: 19
 summary: "本章介紹三維列印、電腦導航與機器人輔助手術、自訂植入物、術中三維影像、生物列印與四維列印及擴增實境等新興技術在骨科的應用，涵蓋個人化器械與術前規劃流程、各技術的臨床效益與證據層級，以及監管核准、學習曲線與手術時間延長等爭議與陷阱。"
 ---
 
-# Chapter 19: Applications of Three-Dimensional Technologies in Orthopaedic Surgery — 骨科手術三維度技術的應用
-
 ## 章節導讀
 
 本章屬於「轉譯科學與新興技術」範疇，而非傳統解剖學章節。本章依原文脈絡回顧 <span style="color:#e2e8f0">3D printing</span>、<span style="color:#e2e8f0">computer navigation</span>、<span style="color:#e2e8f0">robotics</span>、自訂植入物、術中三維影像、<span style="color:#e2e8f0">bioprinting</span>／<span style="color:#e2e8f0">4D printing</span> 與 <span style="color:#e2e8f0">augmented reality</span> 在骨科的應用現況與證據層級。核心訊息是：3D 技術正以穩定步調進展，未來數年將聚焦於醫院內 <span style="color:#fbbf24">point-of-care printing center</span>、FDA 對自訂植入系統的核准，以及機器人手術的接受與標準化。
@@ -29,9 +27,9 @@ summary: "本章介紹三維列印、電腦導航與機器人輔助手術、自�
 - **2021 年研究**顯示，3D 列印 drill guide 可改善 pedicle screw 置入的準確度、減少失血量、縮短手術時間並減少透視（fluoroscopy）時間。
 - 上述「減少失血、減少透視時間、縮短手術時間」的效益，亦已在**小兒骨科**、**total joint arthroplasty** 與**創傷手術**中獲得證實。
 
-<!-- FIG: 圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置换；E 術後 X 光。（Yale School of Medicine 授權轉載） -->
-![圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置换；E 術後 X 光。（Yale School of Medicine 授權轉載）](/images/oku14/ch19_p0247_fig2.jpg)
-*圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置换；E 術後 X 光。（Yale School of Medicine 授權轉載）*
+<!-- FIG: 圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置換；E 術後 X 光。（Yale School of Medicine 授權轉載） -->
+![圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置換；E 術後 X 光。（Yale School of Medicine 授權轉載）](/images/oku14/ch19_p0247_fig2.jpg)
+*圖 2 — 畸形手術之 patient-specific instrumentation 流程。A 膝關節 AP X 光；B 膝關節軸位 MRI；C 脛骨骨關節炎變形、計畫截骨、3D 虛擬脛骨 baseplate 置放，以及用於調整 varus/valgus、slope 與 rotation 的病人專屬器械；D 3D 導引之截骨與全膝關節置換；E 術後 X 光。（Yale School of Medicine 授權轉載）*
 ### 1.2 個人化器械的標準工作流程（Figure 2）
 
 | 步驟 | 執行者 | 內容 |
@@ -177,7 +175,7 @@ summary: "本章介紹三維列印、電腦導航與機器人輔助手術、自�
 | 四維列印於骨科之重大進展 | Javaid 與 Haleem，expert review | **V** |
 | 骨科 3D 可視化與擴增實境 | Ma 等 | — |
 | 3D 列印自訂脊椎／骶骨重建 | Xu 等（Ewing sarcoma 上頸段）、Kim 等（sacral ostearcoma）、Wei 等（total en bloc sacrectomy） | —（病例與技術報告） |
-| 翻修髋關節大型 acetabulum 骨缺損內 custom implant 之定位準確度 | Baauw 等 | — |
+| 翻修髖關節大型 acetabulum 骨缺損內 custom implant 之定位準確度 | Baauw 等 | — |
 
 ### 3.2 機器人輔助 UKA 的代表性追蹤結果
 
