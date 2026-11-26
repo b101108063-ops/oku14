@@ -131,12 +131,12 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.47** *Ligament Injuries of the Knee* | [CH43]({{< relref "/chapter_43.md" >}}) 膝關節韌帶損傷<br><small>*Ligament Injuries to the Knee*</small> | 相同 | 12 → 22（+10，+83%） ⬆ |
-| **Ch.48** *Knee Articular Cartilage Defects and Cartilage Restoration* | [CH44]({{< relref "/chapter_44.md" >}}) 膝關節關節軟骨：缺陷、退變與保留<br><small>*Articular Cartilage of the Knee: Defects, Degeneration, and Preservation*</small> | 改名／範圍調整 | 12 → 10（-2，-17%） |
-| **Ch.49** *Meniscal Pathology, Repair, and Transplant* | [CH45]({{< relref "/chapter_45.md" >}}) 半月板病變、修復與移植 | 相同 | 8 → 10（+2，+25%） |
-| **Ch.50** *Knee Arthritis and Reconstruction* | [CH46]({{< relref "/chapter_46.md" >}}) 膝關節炎與重建 | 相同 | 10 → 10（+0，+0%） |
-| **Ch.51** *Patellofemoral Instability* | — | 🆕 新增 | — |
-| **Ch.52** *Malalignment and Osteotomies of the Knee* | — | 🆕 新增 | — |
+| [**Ch.47**]({{< relref "/oku15/chapter_47.md" >}}) *Ligament Injuries of the Knee* | [CH43]({{< relref "/chapter_43.md" >}}) 膝關節韌帶損傷<br><small>*Ligament Injuries to the Knee*</small> | 相同 | 12 → 22（+10，+83%） ⬆ |
+| [**Ch.48**]({{< relref "/oku15/chapter_48.md" >}}) *Knee Articular Cartilage Defects and Cartilage Restoration* | [CH44]({{< relref "/chapter_44.md" >}}) 膝關節關節軟骨：缺陷、退變與保留<br><small>*Articular Cartilage of the Knee: Defects, Degeneration, and Preservation*</small> | 改名／範圍調整 | 12 → 10（-2，-17%） |
+| [**Ch.49**]({{< relref "/oku15/chapter_49.md" >}}) *Meniscal Pathology, Repair, and Transplant* | [CH45]({{< relref "/chapter_45.md" >}}) 半月板病變、修復與移植 | 相同 | 8 → 10（+2，+25%） |
+| [**Ch.50**]({{< relref "/oku15/chapter_50.md" >}}) *Knee Arthritis and Reconstruction* | [CH46]({{< relref "/chapter_46.md" >}}) 膝關節炎與重建 | 相同 | 10 → 10（+0，+0%） |
+| [**Ch.51**]({{< relref "/oku15/chapter_51.md" >}}) *Patellofemoral Instability* | — | 🆕 新增 | — |
+| [**Ch.52**]({{< relref "/oku15/chapter_52.md" >}}) *Malalignment and Osteotomies of the Knee* | — | 🆕 新增 | — |
 
 ### Section 9：Foot and Ankle
 

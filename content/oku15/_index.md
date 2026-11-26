@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **47 / 83** 章；⏳ 表示整理中。
+已完成 **53 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -64,12 +64,12 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.44](chapter_44/) | 髖關節保留（Hip Preservation） |
 | [Ch.45](chapter_45/) | 髖關節肌肉、神經血管與軟組織疾病（Muscular, Neurovascular, and Soft-Tissue Conditions of the Hip） |
 | [Ch.46](chapter_46/) | 髖關節終末期退化與髖關節重建（End-Stage Hip Degeneration and Hip Reconstruction） |
-| Ch.47 ⏳ | 膝關節韌帶損傷（Ligament Injuries of the Knee） |
-| Ch.48 ⏳ | 膝關節軟骨缺損與軟骨修復（Knee Articular Cartilage Defects and Cartilage Restoration） |
-| Ch.49 ⏳ | 半月板病變、修復與移植（Meniscal Pathology, Repair, and Transplant） |
-| Ch.50 ⏳ | 膝關節炎與重建（Knee Arthritis and Reconstruction） |
-| Ch.51 ⏳ | 髕股關節不穩定（Patellofemoral Instability） |
-| Ch.52 ⏳ | 膝關節排列異常與截骨術（Malalignment and Osteotomies of the Knee） |
+| [Ch.47](chapter_47/) | 膝關節韌帶損傷（Ligament Injuries of the Knee） |
+| [Ch.48](chapter_48/) | 膝關節軟骨缺損與軟骨修復（Knee Articular Cartilage Defects and Cartilage Restoration） |
+| [Ch.49](chapter_49/) | 半月板病變、修復與移植（Meniscal Pathology, Repair, and Transplant） |
+| [Ch.50](chapter_50/) | 膝關節炎與重建（Knee Arthritis and Reconstruction） |
+| [Ch.51](chapter_51/) | 髕股關節不穩定（Patellofemoral Instability） |
+| [Ch.52](chapter_52/) | 膝關節排列異常與截骨術（Malalignment and Osteotomies of the Knee） |
 | Ch.53 ⏳ | 足踝解剖與生物力學（Foot and Ankle Anatomy and Biomechanics） |
 | Ch.54 ⏳ | 足踝退化性疾病與骨壞死（Degenerative Conditions and Osteonecrosis of the Foot and Ankle） |
 | Ch.55 ⏳ | 糖尿病足（The Diabetic Foot） |
