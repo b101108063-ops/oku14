@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **66 / 83** 章；⏳ 表示整理中。
+已完成 **68 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -83,8 +83,8 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.63](chapter_63/) | 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新觀念（Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine） |
 | [Ch.64](chapter_64/) | 脊椎創傷（Spine Trauma） |
 | [Ch.65](chapter_65/) | 成人脊椎畸形（Adult Spinal Deformity） |
-| Ch.66 ⏳ | 小兒肩部、上臂與肘部創傷（Pediatric Shoulder, Upper Arm, and Elbow Trauma） |
-| Ch.67 ⏳ | 小兒前臂、腕部與手部創傷（Pediatric Forearm, Wrist, and Hand Trauma） |
+| [Ch.66](chapter_66/) | 小兒肩部、上臂與肘部創傷（Pediatric Shoulder, Upper Arm, and Elbow Trauma） |
+| [Ch.67](chapter_67/) | 小兒前臂、腕部與手部創傷（Pediatric Forearm, Wrist, and Hand Trauma） |
 | Ch.68 ⏳ | 上肢先天性疾病（Congenital Disorders of the Upper Limb） |
 | Ch.69 ⏳ | 小兒骨盆、髖部與股骨創傷（Pediatric Pelvis, Hip, and Femur Trauma） |
 | Ch.70 ⏳ | 小兒膝、小腿、踝與足部骨折（Pediatric Knee, Leg, Ankle, and Foot Fractures） |

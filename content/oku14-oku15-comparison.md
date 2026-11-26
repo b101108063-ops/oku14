@@ -165,8 +165,8 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.66** *Pediatric Shoulder, Upper Arm, and Elbow Trauma* | [CH58]({{< relref "/chapter_58.md" >}}) 小兒肩部、上臂與肘部創傷 | 相同 | 14 → 16（+2，+14%） |
-| **Ch.67** *Pediatric Forearm, Wrist, and Hand Trauma* | [CH59]({{< relref "/chapter_59.md" >}}) 小兒前臂、腕部與手部創傷 | 相同 | 14 → 12（-2，-14%） |
+| [**Ch.66**]({{< relref "/oku15/chapter_66.md" >}}) *Pediatric Shoulder, Upper Arm, and Elbow Trauma* | [CH58]({{< relref "/chapter_58.md" >}}) 小兒肩部、上臂與肘部創傷 | 相同 | 14 → 16（+2，+14%） |
+| [**Ch.67**]({{< relref "/oku15/chapter_67.md" >}}) *Pediatric Forearm, Wrist, and Hand Trauma* | [CH59]({{< relref "/chapter_59.md" >}}) 小兒前臂、腕部與手部創傷 | 相同 | 14 → 12（-2，-14%） |
 | **Ch.68** *Congenital Disorders of the Upper Limb* | [CH60]({{< relref "/chapter_60.md" >}}) 小兒上肢疾病<br><small>*Pediatric Upper Extremity Disorders*</small> | 改名／範圍調整 | 18 → 18（+0，+0%） |
 | **Ch.69** *Pediatric Pelvis, Hip, and Femur Trauma* | [CH61]({{< relref "/chapter_61.md" >}}) 小兒骨盆、髖部與股骨創傷 | 相同 | 14 → 16（+2，+14%） |
 | **Ch.70** *Pediatric Knee, Leg, Ankle, and Foot Fractures* | [CH62]({{< relref "/chapter_62.md" >}}) 小兒膝、下肢與踝部骨折<br><small>*Pediatric Knee, Lower Extremity, and Ankle Fractures*</small> | 改名／範圍調整 | 14 → 18（+4，+29%） |
