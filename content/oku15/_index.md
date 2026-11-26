@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **80 / 83** 章；⏳ 表示整理中。
+已完成 **81 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -97,7 +97,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.77](chapter_77/) | 小兒肌肉骨骼感染、發炎疾病與非意外性創傷（Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma） |
 | [Ch.78](chapter_78/) | 肌肉骨骼腫瘤的評估與處置（Evaluation and Management of Musculoskeletal Tumors） |
 | [Ch.79](chapter_79/) | 良性骨腫瘤與類腫瘤病變（Benign Bone Tumors and Tumorlike Conditions of Bone） |
-| Ch.80 ⏳ | 骨骼肉瘤（Sarcomas of Bone） |
+| [Ch.80](chapter_80/) | 骨骼肉瘤（Sarcomas of Bone） |
 | Ch.81 ⏳ | 骨轉移性腫瘤（Metastatic Tumors of Bone） |
 | Ch.82 ⏳ | 良性軟組織腫瘤與腫塊（Benign Soft-Tissue Tumors and Masses） |
 | [Ch.83](chapter_83/) | 軟組織肉瘤（Soft-Tissue Sarcomas） |

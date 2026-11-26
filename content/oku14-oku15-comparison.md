@@ -184,7 +184,7 @@ weight: 0
 |---|---|---|---|
 | [**Ch.78**]({{< relref "/oku15/chapter_78.md" >}}) *Evaluation and Management of Musculoskeletal Tumors* | [CH70]({{< relref "/chapter_70.md" >}}) 肌肉骨骼腫瘤之評估與處置 | 相同 | 16 → 10（-6，-38%） |
 | [**Ch.79**]({{< relref "/oku15/chapter_79.md" >}}) *Benign Bone Tumors and Tumorlike Conditions of Bone* | [CH71]({{< relref "/chapter_71.md" >}}) 良性骨腫瘤與類腫瘤病變<br><small>*Benign Tumors and Tumorlike Conditions of Bone*</small> | 相同 | 12 → 16（+4，+33%） |
-| **Ch.80** *Sarcomas of Bone* | [CH72]({{< relref "/chapter_72.md" >}}) 骨骼肉瘤 | 相同 | 18 → 18（+0，+0%） |
+| [**Ch.80**]({{< relref "/oku15/chapter_80.md" >}}) *Sarcomas of Bone* | [CH72]({{< relref "/chapter_72.md" >}}) 骨骼肉瘤 | 相同 | 18 → 18（+0，+0%） |
 | **Ch.81** *Metastatic Tumors of Bone* | [CH73]({{< relref "/chapter_73.md" >}}) 骨轉移性腫瘤 | 相同 | 14 → 18（+4，+29%） |
 | **Ch.82** *Benign Soft-Tissue Tumors and Masses* | [CH74]({{< relref "/chapter_74.md" >}}) 良性軟組織腫瘤與腫塊 | 相同 | 12 → 10（-2，-17%） |
 | [**Ch.83**]({{< relref "/oku15/chapter_83.md" >}}) *Soft-Tissue Sarcomas* | [CH75]({{< relref "/chapter_75.md" >}}) 軟組織肉瘤 | 相同 | 21 → 38（+17，+81%） ⬆ |
