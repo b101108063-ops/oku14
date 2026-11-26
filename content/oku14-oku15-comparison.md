@@ -176,7 +176,7 @@ weight: 0
 | [**Ch.74**]({{< relref "/oku15/chapter_74.md" >}}) *Pediatric Spine Disorders and Trauma* | [CH66]({{< relref "/chapter_66.md" >}}) 小兒脊椎疾病與創傷 | 相同 | 20 → 14（-6，-30%） |
 | [**Ch.75**]({{< relref "/oku15/chapter_75.md" >}}) *Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions* | [CH67]({{< relref "/chapter_67.md" >}}) 小兒骨骼發育不良、結締組織疾病及其他遺傳性疾病<br><small>*Pediatric Skeletal Dysplasias, Connective Tissue Disorders, and Other Genetic Conditions*</small> | 相同 | 22 → 18（-4，-18%） |
 | [**Ch.76**]({{< relref "/oku15/chapter_76.md" >}}) *Pediatric Neuromuscular Disorders* | [CH68]({{< relref "/chapter_68.md" >}}) 小兒神經肌肉疾病 | 相同 | 12 → 12（+0，+0%） |
-| **Ch.77** *Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma* | [CH69]({{< relref "/chapter_69.md" >}}) 小兒肌肉骨骼感染、發炎疾病與非意外性創傷 | 相同 | 16 → 18（+2，+12%） |
+| [**Ch.77**]({{< relref "/oku15/chapter_77.md" >}}) *Pediatric Musculoskeletal Infection, Inflammatory Conditions, and Nonaccidental Trauma* | [CH69]({{< relref "/chapter_69.md" >}}) 小兒肌肉骨骼感染、發炎疾病與非意外性創傷 | 相同 | 16 → 18（+2，+12%） |
 
 ### Section 12：Oncology and Pathology
 
