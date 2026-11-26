@@ -170,7 +170,7 @@ weight: 0
 | [**Ch.68**]({{< relref "/oku15/chapter_68.md" >}}) *Congenital Disorders of the Upper Limb* | [CH60]({{< relref "/chapter_60.md" >}}) 小兒上肢疾病<br><small>*Pediatric Upper Extremity Disorders*</small> | 改名／範圍調整 | 18 → 18（+0，+0%） |
 | [**Ch.69**]({{< relref "/oku15/chapter_69.md" >}}) *Pediatric Pelvis, Hip, and Femur Trauma* | [CH61]({{< relref "/chapter_61.md" >}}) 小兒骨盆、髖部與股骨創傷 | 相同 | 14 → 16（+2，+14%） |
 | [**Ch.70**]({{< relref "/oku15/chapter_70.md" >}}) *Pediatric Knee, Leg, Ankle, and Foot Fractures* | [CH62]({{< relref "/chapter_62.md" >}}) 小兒膝、下肢與踝部骨折<br><small>*Pediatric Knee, Lower Extremity, and Ankle Fractures*</small> | 改名／範圍調整 | 14 → 18（+4，+29%） |
-| **Ch.71** *Pediatric Hip Disorders* | [CH63]({{< relref "/chapter_63.md" >}}) 小兒髖部疾病 | 相同 | 22 → 20（-2，-9%） |
+| [**Ch.71**]({{< relref "/oku15/chapter_71.md" >}}) *Pediatric Hip Disorders* | [CH63]({{< relref "/chapter_63.md" >}}) 小兒髖部疾病 | 相同 | 22 → 20（-2，-9%） |
 | **Ch.72** *Pediatric Lower Extremity and Foot Disorders* | [CH64]({{< relref "/chapter_64.md" >}}) 小兒下肢與足部疾病 | 相同 | 14 → 20（+6，+43%） ⬆ |
 | **Ch.73** *Pediatric Athletic Injuries* | [CH65]({{< relref "/chapter_65.md" >}}) 小兒運動傷害 | 相同 | 14 → 18（+4，+29%） |
 | **Ch.74** *Pediatric Spine Disorders and Trauma* | [CH66]({{< relref "/chapter_66.md" >}}) 小兒脊椎疾病與創傷 | 相同 | 20 → 14（-6，-30%） |
