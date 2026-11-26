@@ -156,8 +156,8 @@ weight: 0
 | [**Ch.59**]({{< relref "/oku15/chapter_59.md" >}}) *Cervical Degenerative Diseases* | [CH53]({{< relref "/chapter_53.md" >}}) 頸椎退行性疾病<br><small>*Cervical Degenerative Conditions*</small> | 相同 | 10 → 16（+6，+60%） ⬆ |
 | [**Ch.60**]({{< relref "/oku15/chapter_60.md" >}}) *Thoracolumbar Degenerative Disease* | [CH54]({{< relref "/chapter_54.md" >}}) 胸腰椎疾病<br><small>*Thoracolumbar Conditions*</small> | 改名／範圍調整 | 16 → 10（-6，-38%） |
 | [**Ch.61**]({{< relref "/oku15/chapter_61.md" >}}) *Thoracolumbar Minimally Invasive Surgical Techniques* | [CH55]({{< relref "/chapter_55.md" >}}) 胸腰椎微創手術技術 | 相同 | 10 → 8（-2，-20%） |
-| **Ch.62** *Spinal Column Infections* | [CH56]({{< relref "/chapter_56.md" >}}) 脊椎感染 | 相同 | 12 → 14（+2，+17%） |
-| **Ch.63** *Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine* | [CH57]({{< relref "/chapter_57.md" >}}) 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新概念 | 相同 | 20 → 18（-2，-10%） |
+| [**Ch.62**]({{< relref "/oku15/chapter_62.md" >}}) *Spinal Column Infections* | [CH56]({{< relref "/chapter_56.md" >}}) 脊椎感染 | 相同 | 12 → 14（+2，+17%） |
+| [**Ch.63**]({{< relref "/oku15/chapter_63.md" >}}) *Current Concepts in Primary Benign, Primary Malignant, and Metastatic Tumors of the Spine* | [CH57]({{< relref "/chapter_57.md" >}}) 脊椎原發性良性、原發性惡性與轉移性腫瘤的最新概念 | 相同 | 20 → 18（-2，-10%） |
 | **Ch.64** *Spine Trauma* | [CH26]({{< relref "/chapter_26.md" >}}) 脊椎創傷<br><small>*Spinal Trauma*</small> | 移至其他 Section | 12 → 12（+0，+0%） |
 | **Ch.65** *Adult Spinal Deformity* | — | 🆕 新增 | — |
 
