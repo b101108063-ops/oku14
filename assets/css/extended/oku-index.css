@@ -1,0 +1,12 @@
+.oku-index details.oku-part{border:1px solid var(--border);border-radius:10px;margin:14px 0;background:var(--entry);}
+.oku-index details.oku-part>summary{cursor:pointer;padding:14px 18px;font-size:1.15rem;font-weight:600;list-style:none;display:flex;align-items:center;gap:10px;}
+.oku-index details.oku-part>summary::-webkit-details-marker{display:none;}
+.oku-index details.oku-part>summary::before{content:"▸";transition:transform .2s;display:inline-block;color:var(--secondary);}
+.oku-index details.oku-part[open]>summary::before{transform:rotate(90deg);}
+.oku-index details.oku-part[open]>summary{border-bottom:1px solid var(--border);}
+.oku-index details.oku-part>*:not(summary){margin-left:18px;margin-right:18px;}
+.oku-index details.oku-part>*:last-child{margin-bottom:16px;}
+.oku-index .oku-tag{font-size:.8rem;padding:2px 8px;border-radius:6px;color:#fff;}
+.oku-index .oku-tag.oku14{background:#2563eb;}
+.oku-index .oku-tag.oku15{background:#059669;}
+.oku-index small{color:var(--secondary);font-weight:400;}
