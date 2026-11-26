@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **70 / 83** 章；⏳ 表示整理中。
+已完成 **71 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -87,7 +87,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.67](chapter_67/) | 小兒前臂、腕部與手部創傷（Pediatric Forearm, Wrist, and Hand Trauma） |
 | [Ch.68](chapter_68/) | 上肢先天性疾病（Congenital Disorders of the Upper Limb） |
 | [Ch.69](chapter_69/) | 小兒骨盆、髖部與股骨創傷（Pediatric Pelvis, Hip, and Femur Trauma） |
-| Ch.70 ⏳ | 小兒膝、小腿、踝與足部骨折（Pediatric Knee, Leg, Ankle, and Foot Fractures） |
+| [Ch.70](chapter_70/) | 小兒膝、小腿、踝與足部骨折（Pediatric Knee, Leg, Ankle, and Foot Fractures） |
 | Ch.71 ⏳ | 小兒髖部疾病（Pediatric Hip Disorders） |
 | Ch.72 ⏳ | 小兒下肢與足部疾病（Pediatric Lower Extremity and Foot Disorders） |
 | Ch.73 ⏳ | 小兒運動傷害（Pediatric Athletic Injuries） |
