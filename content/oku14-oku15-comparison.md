@@ -182,7 +182,7 @@ weight: 0
 
 | OKU 15 | 對應 OKU 14 | 變動 | 頁數（PDF） |
 |---|---|---|---|
-| **Ch.78** *Evaluation and Management of Musculoskeletal Tumors* | [CH70]({{< relref "/chapter_70.md" >}}) 肌肉骨骼腫瘤之評估與處置 | 相同 | 16 → 10（-6，-38%） |
+| [**Ch.78**]({{< relref "/oku15/chapter_78.md" >}}) *Evaluation and Management of Musculoskeletal Tumors* | [CH70]({{< relref "/chapter_70.md" >}}) 肌肉骨骼腫瘤之評估與處置 | 相同 | 16 → 10（-6，-38%） |
 | **Ch.79** *Benign Bone Tumors and Tumorlike Conditions of Bone* | [CH71]({{< relref "/chapter_71.md" >}}) 良性骨腫瘤與類腫瘤病變<br><small>*Benign Tumors and Tumorlike Conditions of Bone*</small> | 相同 | 12 → 16（+4，+33%） |
 | **Ch.80** *Sarcomas of Bone* | [CH72]({{< relref "/chapter_72.md" >}}) 骨骼肉瘤 | 相同 | 18 → 18（+0，+0%） |
 | **Ch.81** *Metastatic Tumors of Bone* | [CH73]({{< relref "/chapter_73.md" >}}) 骨轉移性腫瘤 | 相同 | 14 → 18（+4，+29%） |
