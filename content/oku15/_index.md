@@ -14,7 +14,7 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 
 ## 章節導覽
 
-已完成 **82 / 83** 章；⏳ 表示整理中。
+已完成 **83 / 83** 章；⏳ 表示整理中。
 
 | 章 | 主題 |
 | :-- | :-- |
@@ -99,5 +99,5 @@ OKU 14 共 75 章、OKU 15 共 83 章，逐章結構變動（改名、拆分、�
 | [Ch.79](chapter_79/) | 良性骨腫瘤與類腫瘤病變（Benign Bone Tumors and Tumorlike Conditions of Bone） |
 | [Ch.80](chapter_80/) | 骨骼肉瘤（Sarcomas of Bone） |
 | [Ch.81](chapter_81/) | 骨轉移性腫瘤（Metastatic Tumors of Bone） |
-| Ch.82 ⏳ | 良性軟組織腫瘤與腫塊（Benign Soft-Tissue Tumors and Masses） |
+| [Ch.82](chapter_82/) | 良性軟組織腫瘤與腫塊（Benign Soft-Tissue Tumors and Masses） |
 | [Ch.83](chapter_83/) | 軟組織肉瘤（Soft-Tissue Sarcomas） |
