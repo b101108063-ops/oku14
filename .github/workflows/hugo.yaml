@@ -48,6 +48,8 @@ jobs:
           test -f public/chapter_75/index.html
           test -f public/oku15/index.html
           test -f public/oku15/chapter_30/index.html
+          echo "home details=$(grep -o '<details' public/index.html | wc -l) summary=$(grep -o '<summary' public/index.html | wc -l) tables=$(grep -o '<table' public/index.html | wc -l) cards=$(grep -o 'post-entry' public/index.html | wc -l) css=$(grep -o 'oku-part' public/assets/css/*.css 2>/dev/null | wc -l)"
+          grep -o '<details[^>]*><summary>.\{0,160\}' public/index.html | head -2
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
